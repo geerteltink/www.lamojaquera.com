@@ -9,21 +9,12 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
+                    {{ $currentPage := . }}
+                    {{ range .Site.Menus.main }}
                     <li class="nav-item">
-                        <a class="nav-link" href="/">Inicio</a>
+                        <a class="nav-link{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}">{{ .Name }}</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/informacion">Información</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/participantes">Participantes</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/socios">Socios</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/galeria">Galería</a>
-                    </li>
+                    {{ end }}
                 </ul>
             </div>
         </div>

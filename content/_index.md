@@ -2,6 +2,12 @@
 title: "La Mojaquera"
 date: 2018-12-21T10:00:00+02:00
 draft: false
+menu:
+  main:
+    identifier: inicio
+    name: Inicio
+    url: /
+    weight: 10
 ---
 
 <div class="header-video">

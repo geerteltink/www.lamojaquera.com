@@ -2,6 +2,12 @@
 title: "Socios - La Mojaquera"
 date: 2018-12-21T10:00:00+02:00
 draft: false
+menu:
+  main:
+    identifier: socios
+    name: Socios
+    url: /socios/
+    weight: 40
 ---
 
 <h1 class="bg-warning text-dark text-center mb-3 p-3">
