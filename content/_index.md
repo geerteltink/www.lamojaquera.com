@@ -1,12 +1,11 @@
 ---
-title: "La Mojaquera"
+title: "17 Marzo 2019"
 date: 2018-12-21T10:00:00+02:00
 draft: false
+fullpage: true
 menu:
   main:
-    identifier: inicio
     name: Inicio
-    url: /
     weight: 10
 ---
 
@@ -56,6 +55,14 @@ menu:
             <blockquote class="blockquote mb-0">
             <p>Una carrera para Raiders con Raza.</p>
             <footer class="blockquote-footer">Lolo Beltran Martinez</footer>
+            </blockquote>
+        </div>
+        </div>
+        <div class="card mb-3" style="min-width: 256px;">
+        <div class="card-body">
+            <blockquote class="blockquote mb-0">
+            <p>Una Maratón para disfrutar.</p>
+            <footer class="blockquote-footer">Milton Ramos</footer>
             </blockquote>
         </div>
         </div>

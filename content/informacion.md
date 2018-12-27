@@ -1,23 +1,36 @@
 ---
-title: "Información - La Mojaquera"
+title: "Información"
 date: 2018-12-21T10:00:00+02:00
 draft: false
+bannerimage: /img/header-background.jpg
+bannertext: Información
 menu:
   main:
     identifier: informacion
-    name: Información
-    url: /informacion/
     weight: 20
 ---
 
-<div class="app-hero flex-container" style="background-image: url({{< imgurl "/img/header-background.jpg" >}})">
-    <div class="app-hero-content text-center container"></div>
-</div>
+# Información
+    
+## Fecha
+17 Marzo, 2019
 
-<h1 class="bg-warning text-dark text-center mb-3 p-3">
-    Información
-</h1>
+## Organizador principal
+Gerardo Martínez Cabello
 
-<main class="container">
-    <h1>Información</h1>
-</main>
+## Solicitante de la prueba
+Mojácar Bike CCD / CIF.: G-04773230. 
+Inscrito en el Registro Andaluz de Entidades Deportivas de la Junta de Andalucía con número 020859.
+
+## Dirreccion Evenemento
+Campo de Futbol Mojacar
+
+## Meta 
+Campo de Futbol Mojacar
+
+## Direcciones a efectos de notificación:
+Paseo Mediterráneo,411
+04638 MOJÁCAR, ALMERÍA
+
+Tfno. Organización:
++34 950 615 016

@@ -1,23 +1,71 @@
 ---
-title: "Galería - La Mojaquera"
+title: "Galería"
 date: 2018-12-21T10:00:00+02:00
 draft: false
+bannerimage: /img/voluntarios-motos.jpg
+bannertext: Galería
 menu:
   main:
-    identifier: galeria
-    name: Galería
-    url: /galeria/
     weight: 50
 ---
 
-<div class="app-hero flex-container" style="background-image: url({{< imgurl "/img/voluntarios-motos.jpg" >}})">
-    <div class="app-hero-content text-center container"></div>
+# Galería
+
+<div class="row">
+<div class="col-md-4">
+<div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
+  {{< youtube GeqLC-AS74g >}}
+  <div class="card-body">
+    <h5 class="card-title">VII Sierra Cabrera Xtreme: La Mojaquera 2018</h5>
+  </div>
 </div>
-
-<h1 class="bg-warning text-dark text-center mb-3 p-3">
-    Galería
-</h1>
-
-<main class="container">
-    <h1>Galería</h1>
-</main>
+</div>
+<div class="col-md-4">
+<div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
+  {{< youtube gc9nhiwAuyo >}}
+  <div class="card-body">
+    <h5 class="card-title">VI Sierra Cabrera Xtreme: La Mojaquera 2017</h5>
+  </div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
+  {{< youtube -K4uxP83sNk >}}
+  <div class="card-body">
+    <h5 class="card-title">V Sierra Cabrera Xtreme: La Mojaquera 2016</h5>
+  </div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
+  {{< youtube AO9xJTo_u2Q >}}
+  <div class="card-body">
+    <h5 class="card-title">IV Sierra Cabrera Xtreme: La Mojaquera 2015</h5>
+  </div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
+  {{< youtube A_nB5KN6GAc >}}
+  <div class="card-body">
+    <h5 class="card-title">III Sierra Cabrera Xtreme: La Mojaquera 2014</h5>
+  </div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
+  {{< youtube zeZXtQTnrGI >}}
+  <div class="card-body">
+    <h5 class="card-title">II Sierra Cabrera Xtreme: La Mojaquera 2013</h5>
+  </div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
+  {{< youtube BWklbhKM46o >}}
+  <div class="card-body">
+    <h5 class="card-title">I Sierra Cabrera Xtreme: La Mojaquera 2012</h5>
+  </div>
+</div>
+</div>
+</div>

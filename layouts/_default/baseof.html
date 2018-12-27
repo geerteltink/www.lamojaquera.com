@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <base href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
-  <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+  <title>{{ block "title" . }}{{ .Site.Title }}  - La Mojaquera{{ end }}</title>
   <meta name="web_author" content="Geert Eltink, https://www.xtreamwayz.com/">
   {{ with .GitInfo }}
   <meta name="revision" content="{{ .Hash }}">{{ end }}
@@ -18,9 +18,26 @@
 </head>
 
 <body class="app">
-  {{ block "header" . }}{{ partial "header" . }}{{end}}
-  {{ block "main" . }}{{end}}
-  {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+  {{ block "header" . }}{{ partial "header" . }}{{ end }}
+  {{ if .Params.fullpage }}
+    {{ block "main" . }}{{ end }}
+  {{ else }}
+    {{ if .Params.bannerimage }}
+      {{ $bannerImage := resources.Get .Params.bannerimage | resources.Fingerprint "md5" }}
+      <div class="app-hero flex-container" style="background-image: url({{ $bannerImage.RelPermalink }})">
+        <div class="app-hero-content text-center container"></div>
+      </div>
+    {{ end }}
+    {{ if .Params.bannertext }}
+      <h1 class="bg-warning text-dark text-center mb-3 p-3">
+          {{ .Params.bannertext }}
+      </h1>
+    {{ end }}
+    <main class="container">
+      {{ block "main" . }}{{ end }}
+    </main>
+  {{ end }}
+  {{ block "footer" . }}{{ partial "footer" . }}{{ end }}
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
