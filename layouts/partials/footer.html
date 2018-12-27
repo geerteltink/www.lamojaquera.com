@@ -1,11 +1,11 @@
 <footer class="app-footer">
     <div class="container">
-        <div class="d-flex justify-content-between">
+        <div class="d-flex flex-column flex-md-row justify-content-between">
             {{ $currentPage := . }}
             {{ range .Site.Menus.main }}
             <ul class="nav flex-column">
                 <li class="nav-item">
-                    <a class="nav-link h5" href="{{ .URL }}">{{ .Name }}</a>
+                    <a class="nav-link h3" href="{{ .URL }}">{{ .Name }}</a>
                 </li>
                 {{ if .HasChildren }}
                 {{ range .Children }}
