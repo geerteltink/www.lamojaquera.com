@@ -9,8 +9,6 @@ menu:
     identifier: informacion
     weight: 20
 ---
-
-# Información
     
 ## Fecha
 17 Marzo, 2019

@@ -29,11 +29,11 @@
       </div>
     {{ end }}
     {{ if .Params.bannertext }}
-      <h1 class="bg-warning text-dark text-center mb-3 p-3">
+      <h1 class="bg-warning text-dark text-center mb-5 p-3">
           {{ .Params.bannertext }}
       </h1>
     {{ end }}
-    <main class="container">
+    <main class="container mb-5">
       {{ block "main" . }}{{ end }}
     </main>
   {{ end }}

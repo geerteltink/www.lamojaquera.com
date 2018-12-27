@@ -10,8 +10,6 @@ menu:
     parent: informacion
     weight: 10
 ---
-
-# Calendario
     
 ## 1 Febrero 2019
  

@@ -9,8 +9,6 @@ menu:
     weight: 50
 ---
 
-# Galería
-
 <div class="row">
 <div class="col-md-4">
 <div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
