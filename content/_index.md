@@ -9,8 +9,8 @@ menu:
     weight: 10
 ---
 
-<div class="header-video">
-    <div id="video-viewport" class="video-viewport">
+<div class="header-video raster-overlay">
+    <div id="video-viewport" class="video-viewport raster-overlay">
         <div class="embed-responsive embed-responsive-16by9">
             <div id="video-placeholder"></div>
         </div>
