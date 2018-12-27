@@ -73,12 +73,3 @@ realizan las siguientes OFERTAS:
       </div>
     </div>
 </div>
-
-## Buffet Restaurante Hotel Marina Playa****
-
-Sabemos que tras un duro ejercicio y competición, es necesario una buena alimentación. Por ello, como en cada edición 
-de "La Mojaquera", os tenemos preparado un magnifico Buffet Libre, para que repongáis todo lo que necesitéis, cuantas 
-veces os apetezca, el precio como cada año es de 15€ y niños hasta 11 años el 50% de descuento.  Y como siempre, en 
-un marco incomparable, con  ambiente distendido y de relaciones entre amigos y compañeros de sufrimiento. El lugar, en 
-el Restaurante del Hotel Marina Playa****, muy cerquita del campus de META. Os adjuntamos enlace de 
-[localización](https://www.google.com/maps/place/Hotel+Servigroup+Marina+Playa/@37.156189,-1.826533,16z/data=!4m5!3m4!1s0x0:0x5b81c22482ea1553!8m2!3d37.1561894!4d-1.8265329?hl=es-ES).
