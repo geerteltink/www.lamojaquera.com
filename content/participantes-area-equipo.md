@@ -8,7 +8,7 @@ url: /participantes/area-equipo/
 menu:
   main:
     parent: participantes
-    weight: 20
+    weight: 40
 ---
 
 # Area equipo

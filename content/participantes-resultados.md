@@ -8,7 +8,7 @@ url: /participantes/resultados/
 menu:
   main:
     parent: participantes
-    weight: 20
+    weight: 30
 ---
 
 # Resultados
