@@ -1,9 +1,9 @@
 ---
-title: "Alojamientos"
+title: "Offerta hotelera"
 date: 2018-12-21T10:00:00+02:00
 draft: false
 bannerimage: /img/mojacar.jpg
-bannertext: Alojamientos
+bannertext: Offerta hotelera
 url: /informacion/alojamientos/
 menu:
   main:
@@ -27,7 +27,7 @@ realizan las siguientes OFERTAS:
   </div>
   <img src="{{< imgurl "/img/hotel-marina-playa.jpg" >}}" class="card-img-top" alt="Hotel Marina Playa">
   <div class="card-body">
-    <h1 class="card-title pricing-card-title">42€ <small class="text-muted">por persona/día</small></h1>
+    <h1 class="card-title pricing-card-title">42€ <small class="text-muted">por persona/día en habitación doble</small></h1>
     <ul class="list-unstyled mt-3 mb-4">
       <li>Oferta solo para participantes y familia.</li>
       <li>Para 3ª y 4ª persona en habitación doble descuento de 25%.</li>

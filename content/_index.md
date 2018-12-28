@@ -9,12 +9,7 @@ menu:
     weight: 10
 ---
 
-<div>
-    <img src="{{< imgurl "/img/banner-2019.jpg" >}}" class="img-fluid m-0 p-0" alt="La Mojaquera 2019">
-</div>
-<h1 class="bg-warning text-dark text-center mb-3 p-3">
-    La Mojaquera: 17 Marzo 2019
-</h1>
+<img src="{{< imgurl "/img/cartel-2019.jpg" >}}" class="w-100 img-fluid mb-3" alt="La Mojaquera 2019">
 
 <main class="container">
     <div class="card-deck mb-5">

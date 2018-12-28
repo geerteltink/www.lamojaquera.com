@@ -11,17 +11,17 @@ menu:
     weight: 10
 ---
     
-## 1 Febrero 2019
+## 1 Enero 2019
  
 Online subscriptions open
 
 ## 3 Marzo 2019
  
-8:00 - Reconocimiento La Mojaquera Largo 2019
+8:00 Reconocimiento La Mojaquera Largo 2019
 
 ## 10 Marzo 2019
  
-8:00 - Reconocimiento La Mojaquera Corta 2019
+8:00 Reconocimiento La Mojaquera Corta 2019
 
 ## 15 Marzo 2019
  
@@ -29,15 +29,19 @@ Online subscriptions close
 
 ## 16 Febrero 2019
  
-17:00 - 21:00 Pickup registration
+17:00 - 20:30 Recogida de dorsales y bolsa del Corredor - Hotel Marina Playa
 
-21:00 - Riders Briefing
+17:30 - 18:30 Riders Briefing - Hotel Marina Playa
 
 ## 17 Marzo, 2019
 
-08:00 - VIII Sierra Cabrera Xtreme: La Mojaquera 2019
+06:45 Desayuna - Hotel Marina Playa
 
-14:00 - Buffet Restaurante Hotel Marina Playa ****
+07:00 - 7:45 Recogida de dorsales y bolsa del Corredor - Mojácar Centro Deportivo
+
+08:00 Salida VIII Sierra Cabrera Xtreme: La Mojaquera 2019 - Mojácar Centro Deportivo
+
+14:30 - 16:00 Buffet Restaurante Hotel Marina Playa ****
 
 Sabemos que tras un duro ejercicio y competición, es necesario una buena alimentación. Por ello, como en cada edición 
 de "La Mojaquera", os tenemos preparado un magnifico Buffet Libre, para que repongáis todo lo que necesitéis, cuantas 
@@ -46,4 +50,4 @@ un marco incomparable, con  ambiente distendido y de relaciones entre amigos y c
 el Restaurante del Hotel Marina Playa, muy cerquita del campus de META. Os adjuntamos enlace de 
 [localización](https://www.google.com/maps/place/Hotel+Servigroup+Marina+Playa/@37.156189,-1.826533,16z/data=!4m5!3m4!1s0x0:0x5b81c22482ea1553!8m2!3d37.1561894!4d-1.8265329?hl=es-ES).
 
-16:00 - Sorteo
+16:30 Sorteo - Hotel Marina Playa
