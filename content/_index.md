@@ -19,7 +19,7 @@ menu:
         deporte, diversión y por veros año tras año. La carrera discurre por tres Terminos Municipales
         (Mojácar, Turre y Carboneras).
     </p>
-    <p class="mb-3">
+    <p class="mb-5">
         Esta edicion 2019 viene cargada de cambios y mejoras, al igual que en ediciones anteriores, discurrirá prácticamente en
         todo su recorrido por caminos de tierra (pistas en la mayoría de los casos), ramblas y muchas sendas.
         Una de las novedades destacbles es la SALIDA/META que la tendremo en Mojácar Pueblo. Otra de las novedades son 
