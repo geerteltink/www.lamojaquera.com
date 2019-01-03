@@ -1,9 +1,9 @@
 ---
-title: "Offerta hotelera"
+title: "Oferta hotelera"
 date: 2018-12-21T10:00:00+02:00
 draft: false
 bannerimage: /img/mojacar.jpg
-bannertext: Offerta hotelera
+bannertext: Oferta hotelera
 url: /informacion/alojamientos/
 menu:
   main:

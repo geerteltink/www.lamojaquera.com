@@ -2,7 +2,7 @@
 title: "Los voluntarios"
 date: 2018-12-21T10:00:00+02:00
 draft: false
-bannerimage: /img/header-background.jpg
+bannerimage: /img/informacion-voluntarios.jpg
 bannertext: Los voluntarios
 url: /informacion/voluntarios/
 menu:
@@ -11,4 +11,8 @@ menu:
     weight: 60
 ---
 
-# TODO
+Quieres ser VOLUNTARI@ en La Mojaquera 2019?
+ 
+Dejanos tus datos de contacto. 
+
+Nombre, Apellidos, DNI., Telf. y Email.

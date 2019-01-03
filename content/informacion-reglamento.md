@@ -1,7 +1,7 @@
 ---
 title: "Reglamento"
 date: 2018-12-21T10:00:00+02:00
-draft: false
+draft: true
 bannerimage: /img/header-background.jpg
 bannertext: Reglamento
 url: /informacion/reglamento/

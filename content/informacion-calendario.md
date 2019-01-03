@@ -25,7 +25,7 @@ Appertura de inscripciones.
 
 ## 28 Febrero 2019
 
-Cierre de inscripciones.
+20:00 Cierre de inscripciones.
 
 ## 16 Marzo 2019
 
