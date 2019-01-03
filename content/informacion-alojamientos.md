@@ -32,9 +32,10 @@ realizan las siguientes OFERTAS:
       <li>Oferta solo para participantes y familia.</li>
       <li>Para 3ª y 4ª persona en habitación doble descuento de 25%.</li>
       <li>Niños 50%.</li>
-      <li>llama: 950548500</li>
     </ul>
-    <a href="http://www.servigroup.com/es/hoteles-en-mojacar/hotel-servigroup-marina-playa/" class="btn btn-lg btn-block btn-primary">RESERVA AHORA</a>
+    <a href="tel:+34950548500" class="btn btn-lg btn-block btn-primary">
+        Llama para reservar: 950548500
+    </a>
   </div>
 </div>
 
@@ -73,3 +74,7 @@ realizan las siguientes OFERTAS:
       </div>
     </div>
 </div>
+
+<a href="http://www.servigroup.com/es/hoteles-en-mojacar/hotel-servigroup-marina-playa/" class="btn btn-lg btn-block btn-outline-primary">
+    Conoce el hotel
+</a>

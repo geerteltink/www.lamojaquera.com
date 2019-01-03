@@ -62,10 +62,10 @@ menu:
         (Mojacar, Turre y Carboneras).
     </p>
     <p class="mb-3">
-        Esta edicion 2016 viene cargada de mejoras, al igual que la pasada edición, discurrirá prácticamente en
-        todo su recorrido por caminos de tierra (pistas en la mayoría de los casos), ramblas y senderos,
-        excepto en el tramo de SALIDA/META a Playa de Macenas (Neutralizada 8 km) que discurre por el Paseo de
-        Mojacar. Recuperamos el paso por la playa de Manaca o Sombrerico e incorporamos la “temible Subida de
-        La Bestia”, en TM de Carboneras.
+        Esta edicion 2019 viene cargada de cambios y mejoras, al igual que en ediciones anteriores, discurrirá prácticamente en
+        todo su recorrido por caminos de tierra (pistas en la mayoría de los casos), ramblas y muchas sendas.
+        Una de las novedades destacbles es la SALIDA/META que la tendremo en Mojacar Pueblo. Otra de las novedades son 
+        las sendas de Los Miradores, este es un paso muy espectacular donde pondremos a prueba desafios personales, 
+        pero sin perder de vista el Mediterraneo.
     </p>
 </main>

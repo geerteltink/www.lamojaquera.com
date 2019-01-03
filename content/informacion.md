@@ -24,17 +24,17 @@ menu:
     <em>Inscrito en el Registro Andaluz de Entidades Deportivas de la Junta de Andalucía con número 020859.</em>
 </p>
 
-<h2>Dirreccion Evenemento</h2>
+<h2>Direccion Evenemento</h2>
 <p>Mojácar Pueblo</p>
 
 <h2>Salida</h2>
 <p>
-    Mojácar Centro Deportivo<br/>
+    Mojácar Centro Deportivo Mojaagua<br/>
     Plaza Rey Alabez, 13, 04638 Mojácar, Almería
 </p>
 
 <h2>Meta</h2>
-<p>Mojácar Pueblo - plaza nueva</p>
+<p>Mojácar Pueblo - glorietta - plaza nueva</p>
 
 <h2>Direcciones a efectos de notificación</h2>
 <p>
