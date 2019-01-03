@@ -11,8 +11,8 @@ menu:
     weight: 60
 ---
 
-Quieres ser VOLUNTARI@ en La Mojaquera 2019?
+## Quieres ser VOLUNTARI@ en La Mojaquera 2019?
  
-Dejanos tus datos de contacto. 
+Dejanos tus datos de contacto. *(Nombre, Apellidos, DNI., Telf. y Email)*
 
-Nombre, Apellidos, DNI., Telf. y Email.
+<a href="mailto:info@lamojaquera.com">info@lamojaquera.com</a>
