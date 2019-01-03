@@ -9,8 +9,6 @@ menu:
     weight: 40
 ---
 
-# TODO
-
 <div class="card-deck">
     <a href="#" class="card mb-3 box-shadow" style="min-width: 196px;">
       <img class="card-img-top img-fluid" src="{{< imgurl "/img/logo/saltapitas.png" >}}" alt="Card image cap">
