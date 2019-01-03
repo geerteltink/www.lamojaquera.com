@@ -38,14 +38,6 @@ menu:
         <div class="card border-primary mb-3" style="min-width: 256px;">
         <div class="card-body text-primary">
             <blockquote class="blockquote mb-0">
-            <p>Una carrera muy dura que se alegra al paso por “El Arco de La Ciudad”.</p>
-            <footer class="blockquote-footer">Jesus Del Nero</footer>
-            </blockquote>
-        </div>
-        </div>
-        <div class="card border-primary mb-3" style="min-width: 256px;">
-        <div class="card-body text-primary">
-            <blockquote class="blockquote mb-0">
             <p>Una carrera para Raiders con Raza.</p>
             <footer class="blockquote-footer">Lolo Beltran Martinez</footer>
             </blockquote>
@@ -56,6 +48,14 @@ menu:
             <blockquote class="blockquote mb-0">
             <p>Una Maratón para disfrutar.</p>
             <footer class="blockquote-footer">Milton Ramos</footer>
+            </blockquote>
+        </div>
+        </div>
+        <div class="card border-primary mb-3" style="min-width: 256px;">
+        <div class="card-body text-primary">
+            <blockquote class="blockquote mb-0">
+            <p>Una carrera muy dura que se alegra al paso por “El Arco de La Ciudad”.</p>
+            <footer class="blockquote-footer">Jesus Del Nero</footer>
             </blockquote>
         </div>
         </div>
