@@ -10,7 +10,7 @@ menu:
     parent: informacion
     weight: 10
 ---
-    
+
 ## 1 Enero 2019
  
 Online subscriptions open
@@ -23,17 +23,17 @@ Online subscriptions open
  
 8:00 Reconocimiento La Mojaquera Corta 2019
 
-## 15 Marzo 2019
- 
+## 28 Febrero 2019
+
 Online subscriptions close
 
-## 16 Febrero 2019
+## 16 Marzo 2019
  
 17:00 - 20:30 Recogida de dorsales y bolsa del Corredor - Hotel Marina Playa
 
 17:30 - 18:30 Riders Briefing - Hotel Marina Playa
 
-## 17 Marzo, 2019
+## 17 Marzo 2019
 
 06:45 Desayuna - Hotel Marina Playa
 
