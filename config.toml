@@ -3,7 +3,7 @@ languageCode = "es-ES"
 defaultContentLanguage = "es"
 title = "La Mojaquera"
 
-#googleAnalytics = "UA-127207124-1"
+googleAnalytics = "UA-131728141-1"
 enableRobotsTxt = true
 enableGitInfo = true
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
