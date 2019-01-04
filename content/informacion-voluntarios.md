@@ -13,6 +13,6 @@ menu:
 
 ## Quieres ser VOLUNTARI@ en La Mojaquera 2019?
  
-Dejanos tus datos de contacto. *(Nombre, Apellidos, DNI., Telf. y Email)*
+Dejanos tus datos de contacto. *(Nombre, Apellidos, DNI, Teléfono y Email)*
 
 <a href="mailto:info@lamojaquera.com">info@lamojaquera.com</a>

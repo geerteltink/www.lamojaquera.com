@@ -18,6 +18,6 @@ menu:
     <p class="card-text">
         <strong>Distancia:</strong> 42,56 km <strong>Desnivel:</strong> 1.238 m
     </p>
-    <a href="https://wikiloc.com/routes-mountainbike/mojacar-mojacar-31832710" class="card-link">Powered by Wikiloc</a>
+    <a href="https://wikiloc.com/routes-mountainbike/mojacar-mojacar-31832710" class="card-link">Más detalles en Wikiloc</a>
   </div>
 </div>

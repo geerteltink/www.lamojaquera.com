@@ -16,7 +16,7 @@ menu:
         <div class="timeline-icon"></div>
         <div class="timeline-date">3 Enero 2019</div>
         <div class="timeline-content">
-            <h2 class="timeline-title">Appertura de inscripciones</h2>
+            <h2 class="timeline-title">Apertura de inscripciones</h2>
             <a class="timeline-location" href="/participantes/inscripciones/">
                 Inscripciones
             </a>
@@ -104,8 +104,8 @@ menu:
             <p class="timeline-description">
                 Sabemos que tras un duro ejercicio y competición, es necesario una buena alimentación. Por ello,
                 como en cada edición de "La Mojaquera", os tenemos preparado un magnifico Buffet Libre, para que
-                repongáis todo lo que necesitéis, cuantas veces os apetezca, este esta incluido en la inscripcion
-                de corredor. Podeis traer a vuestra amigos y familia por el precio es de €15 y niños hasta 11 años
+                repongáis todo lo que necesitéis, cuántas veces os apetezca, este está incluido en la inscripción
+                de corredor. Podéis traer a vuestra amigos y familia por el precio es de €15 y niños hasta 11 años
                 el 50% de descuento. Y como siempre, en un marco incomparable, con ambiente distendido y de
                 relaciones entre amigos y compañeros de sufrimiento. El lugar, en el restaurante del Hotel Marina
                 Playa, muy cerquita del campus de META.
@@ -118,7 +118,7 @@ menu:
         <div class="timeline-content">
             <h2 class="timeline-title">Sorteo de regalos !!!</h2>
             <a class="timeline-location" href="https://www.google.com/maps/place/Hotel+Servigroup+Marina+Playa/@37.156189,-1.826533,16z/data=!4m5!3m4!1s0x0:0x5b81c22482ea1553!8m2!3d37.1561894!4d-1.8265329?hl=es-ES">
-                Cafeteria - Hotel Marina Playa
+                Cafetaria - Hotel Marina Playa
             </a>
         </div>
     </li>

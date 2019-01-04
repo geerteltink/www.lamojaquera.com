@@ -21,7 +21,7 @@ menu:
             Mojácar Bike CCD / CIF.: G-04773230.<br />
             <em>Inscrito en el Registro Andaluz de Entidades Deportivas de la Junta de Andalucía con número 020859.</em>
         </p>
-        <h2>Direccion Evenemento</h2>
+        <h2>Dirección Evenemento</h2>
         <p>Mojácar Pueblo</p>
         <h2>Salida</h2>
         <p>

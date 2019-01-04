@@ -58,7 +58,7 @@ realizan las siguientes OFERTAS:
       <p class="card-text">
         El amplio salón-cafetería del hotel cuenta con zona para actividades de animación y entretenimiento,
         diferentes accesos a la zona de piscina y terraza exterior. En él puedes disfrutar de los mejores cócteles 
-        y "Gin&Tonics" además de otros productos de su extensa carta.
+        y "Gin & Tonics" además de otros productos de su extensa carta.
       </p>
     </div>
   </div>

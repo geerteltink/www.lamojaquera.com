@@ -20,7 +20,7 @@ menu:
             <h1 class="card-title pricing-card-title">€ 30,00</h1>
             <ul class="list-unstyled mt-3 mb-4">
                 <li>Maillot la mojaquera</li>
-                <li>Pulsero silicona</li>
+                <li>Pulsera silicona</li>
                 <li>Bolsa del corredor con regalos</li>
                 <li>Buffet libre en el restaurante de Hotel Marina Playa</li>
             </ul>
@@ -51,7 +51,7 @@ menu:
 
 ## INFORMACIÓN DE LA PRUEBA
 
-**Categorías:** Sub-23 Fem., Sub-23, Master 60 Fem., Master 60, Master 50 Fem., Master 50, Master 40 Fem., Master 40, 
+**Categorias:** Sub-23 Fem., Sub-23, Master 60 Fem., Master 60, Master 50 Fem., Master 50, Master 40 Fem., Master 40, 
 Master 30 Fem., Master 30, Junior Fem., Junior, Elite Fem., Elite, Cicloturistas
 **Lugar:** MOJÁCAR
 **Fecha Celebración:** 17/03/2019 
