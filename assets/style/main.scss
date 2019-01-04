@@ -74,7 +74,7 @@
 .navbar-brand-image {
   height: 116px;
   position: absolute;
-  top:-20px;
+  top: -20px;
   z-index: 100;
 }
 
@@ -127,12 +127,17 @@
   margin-left: -50px;
 }
 
-.subnav {}
-.subnav-item {}
+.subnav {
+}
+
+.subnav-item {
+}
+
 .subnav-link {
   color: #fff;
 }
-.subnav-link.active{
+
+.subnav-link.active {
   color: #042486;
 }
 
@@ -208,7 +213,7 @@
   border-left: 1px solid #e5e5e5;
   position: relative;
   padding: 2rem 1.5rem .5rem 2.5rem;
-  margin-left: 3rem;
+  margin-left: 1rem;
   min-height: 5rem
 }
 
@@ -257,22 +262,24 @@
   box-shadow: 0 0 0 4px #fff, inset 0 2px 0 rgba(0, 0, 0, .08), 0 3px 0 4px rgba(0, 0, 0, .05);
 }
 
-.timeline-item {
-  margin-left: 10rem
-}
+@media (min-width: 576px) {
+  .timeline-item {
+    margin-left: 10rem
+  }
 
-.timeline-date {
-  position: absolute;
-  left: -10rem;
-  width: 7.5rem;
-  text-align: right
-}
+  .timeline-date {
+    position: absolute;
+    left: -10rem;
+    width: 7.5rem;
+    text-align: right
+  }
 
-.timeline-date span {
-  display: block
-}
+  .timeline-date span {
+    display: block
+  }
 
-.timeline-content {
-  padding: 0;
-  background-color: transparent
+  .timeline-content {
+    padding: 0;
+    background-color: transparent
+  }
 }
