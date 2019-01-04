@@ -283,3 +283,18 @@
     background-color: transparent
   }
 }
+
+.card-logo {
+  min-width: 148px;
+  max-width: 256px;
+}
+
+.card-logo-img {}
+
+.card-logo-footer {
+  padding: .5rem;
+  white-space: nowrap;
+  overflow-x: hidden;
+  font-size: .8rem;
+  text-align: center;
+}
