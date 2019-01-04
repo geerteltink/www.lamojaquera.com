@@ -66,6 +66,18 @@
   transform: translateY(-50%);
 }
 
+.navbar-brand {
+  width: 156px;
+  position: relative;
+}
+
+.navbar-brand-image {
+  height: 116px;
+  position: absolute;
+  top:-20px;
+  z-index: 100;
+}
+
 .navbar .nav-item {
   font-size: 1.4rem;
 }
