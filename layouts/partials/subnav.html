@@ -1,0 +1,21 @@
+{{ $currentPage := . }}
+{{ $bannerText := .Params.bannertext }}
+<div class="bg-warning text-dark mb-5 p-3">
+    <ul class="nav subnav flex-nowrap justify-content-center">
+        {{ range .Site.Menus.main }}
+        {{ if or (eq $currentPage.Name .Name) ($currentPage.HasMenuCurrent "main" .) }}
+            {{ if .HasChildren }}
+                {{ range .Children }}
+                <li class="nav-item subnav-item">
+                    <a class="nav-link subnav-link {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+                </li>
+                {{ end }}
+            {{ else if $bannerText }}
+                <li class="nav-item">
+                    <h1 class="nav-link d-inline-block h5">{{ $bannerText }}</h1>
+                </li>
+            {{ end }}
+        {{ end }}
+        {{ end }}
+    </ul>
+</div>

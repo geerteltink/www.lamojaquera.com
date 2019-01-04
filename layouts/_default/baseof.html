@@ -26,11 +26,7 @@
         <div class="app-hero-content text-center container"></div>
       </div>
     {{ end }}
-    {{ if .Params.bannertext }}
-      <h1 class="bg-warning text-dark text-center mb-5 p-3">
-          {{ .Params.bannertext }}
-      </h1>
-    {{ end }}
+    {{ block "subnav" . }}{{ partial "subnav" . }}{{ end }}
     <main class="container mb-5">
       {{ block "main" . }}{{ end }}
     </main>
