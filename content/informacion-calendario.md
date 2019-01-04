@@ -24,6 +24,13 @@ menu:
     </li>
     <li class="timeline-item">
         <div class="timeline-icon"></div>
+        <div class="timeline-date">1 Marzo 2019 <span>20:00</span></div>
+        <div class="timeline-content">
+            <h2 class="timeline-title">Cierre de inscripciones</h2>
+        </div>
+    </li>
+    <li class="timeline-item">
+        <div class="timeline-icon"></div>
         <div class="timeline-date">3 Marzo 2019 <span>8:00</span></div>
         <div class="timeline-content">
             <h2 class="timeline-title">Reconocimiento La Mojaquera Largo 2019</h2>
@@ -38,14 +45,7 @@ menu:
     </li>
     <li class="timeline-item">
         <div class="timeline-icon"></div>
-        <div class="timeline-date">28 Febrero 2019 <span>20:00</span></div>
-        <div class="timeline-content">
-            <h2 class="timeline-title">Cierre de inscripciones</h2>
-        </div>
-    </li>
-    <li class="timeline-item">
-        <div class="timeline-icon"></div>
-        <div class="timeline-date">16 Marzo 2019 <span>17:00 - 20:30</span></div>
+        <div class="timeline-date">16 Marzo 2019 <span>17:30 - 20:30</span></div>
         <div class="timeline-content">
             <h2 class="timeline-title">Recogida de dorsales y bolsa del corredor</h2>
             <a class="timeline-location" href="https://www.google.com/maps/place/Hotel+Servigroup+Marina+Playa/@37.156189,-1.826533,16z/data=!4m5!3m4!1s0x0:0x5b81c22482ea1553!8m2!3d37.1561894!4d-1.8265329?hl=es-ES">
@@ -65,21 +65,21 @@ menu:
     </li>
     <li class="timeline-item">
         <div class="timeline-icon"></div>
-        <div class="timeline-date">17 Marzo 2019 <span>06:45</span></div>
+        <div class="timeline-date">17 Marzo 2019 <span>06:30 - 7:30</span></div>
         <div class="timeline-content">
-            <h2 class="timeline-title">Desayuno</h2>
-            <a class="timeline-location" href="https://www.google.com/maps/place/Hotel+Servigroup+Marina+Playa/@37.156189,-1.826533,16z/data=!4m5!3m4!1s0x0:0x5b81c22482ea1553!8m2!3d37.1561894!4d-1.8265329?hl=es-ES">
-                Hotel Marina Playa
+            <h2 class="timeline-title">Recogida de dorsales y bolsa del Corredor</h2>
+            <a class="timeline-location" href="https://www.google.com/maps/place/Mojaqua+Centro+Deportivo/@37.1589764,-1.9565569,12z/data=!4m8!1m2!2m1!1sMoj%C3%A1car+Centro+Deportivo!3m4!1s0x0:0xa33f5d5c4f0af4f2!8m2!3d37.1390403!4d-1.8543935?hl=es-ES">
+                Mojácar Pueblo Centro Deportivo
             </a>
         </div>
     </li>
     <li class="timeline-item">
         <div class="timeline-icon"></div>
-        <div class="timeline-date">17 Marzo 2019 <span>07:00 - 7:45</span></div>
+        <div class="timeline-date">17 Marzo 2019 <span>06:45</span></div>
         <div class="timeline-content">
-            <h2 class="timeline-title">Recogida de dorsales y bolsa del Corredor</h2>
-            <a class="timeline-location" href="https://www.google.com/maps/place/Mojaqua+Centro+Deportivo/@37.1589764,-1.9565569,12z/data=!4m8!1m2!2m1!1sMoj%C3%A1car+Centro+Deportivo!3m4!1s0x0:0xa33f5d5c4f0af4f2!8m2!3d37.1390403!4d-1.8543935?hl=es-ES">
-                Mojácar Pueblo Centro Deportivo
+            <h2 class="timeline-title">Desayuno</h2>
+            <a class="timeline-location" href="https://www.google.com/maps/place/Hotel+Servigroup+Marina+Playa/@37.156189,-1.826533,16z/data=!4m5!3m4!1s0x0:0x5b81c22482ea1553!8m2!3d37.1561894!4d-1.8265329?hl=es-ES">
+                Hotel Marina Playa
             </a>
         </div>
     </li>

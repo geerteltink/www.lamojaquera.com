@@ -56,7 +56,7 @@ Master 30 Fem., Master 30, Junior Fem., Junior, Elite Fem., Elite, Cicloturistas
 **Lugar:** MOJÁCAR
 **Fecha Celebración:** 17/03/2019 
 **Hora Salida:** 08:00
-**Fecha recogida de dorsales:** 17/03/2019 desde 17:30 hasta 20:30 y 16/03/2019 desde 6:30 hasta 7:30
+**Fecha recogida de dorsales:** 16/03/2019 desde 17:30 hasta 20:30 y 17/03/2019 desde 6:30 hasta 7:30
 **Organizador:** MOJÁCAR BIKE CCD C.D.
 
 ## INFORMACIÓN DE LA INSCRIPCIÓN
@@ -64,4 +64,4 @@ Master 30 Fem., Master 30, Junior Fem., Junior, Elite Fem., Elite, Cicloturistas
 **Límite de participantes:** 400 participantes
 **Proceso de inscripción:** Formulario Inscripción web Federación
 **Fecha Límite de Inscripción:** 28/02/2019 20:00
-**Correo para incidencias:** gerardo@activosinmobiliarios.com
+**Correo para incidencias:** info@lamojaquera.com
