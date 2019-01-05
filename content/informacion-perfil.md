@@ -13,7 +13,7 @@ menu:
 
 <div class="row">
     <div class="col-md-6">
-        <div class="card">
+        <div class="card mb-3">
             <div class="card-header">
                 <h5 class="card-title">La Mojaquera Larga 2019</h5>
             </div>
@@ -25,7 +25,7 @@ menu:
         </div>
     </div>
     <div class="col-md-6">
-        <div class="card">
+        <div class="card mb-3">
             <div class="card-header">
                 <h5 class="card-title">La Mojaquera Corta 2019</h5>
             </div>
