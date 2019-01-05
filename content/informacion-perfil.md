@@ -20,6 +20,7 @@ menu:
             <iframe class="card-img" frameBorder="0" scrolling="no" src="https://es.wikiloc.com/wikiloc/spatialArtifacts.do?event=view&id=31301687&measures=on&title=off&near=off&images=off&maptype=H" style="width:100%;height:400px;"></iframe>
             <div class="card-footer">
                 <a href="https://es.wikiloc.com/rutas-mountain-bike/la-mojaquera-2019-31301687" class="card-link">Más detalles en Wikiloc</a>
+                <a href="https://www.ibpindex.com/ibpindex/ibp_analisis_completo.php?REF=37558000744823&MOD=BYC&LAN=es&REM=&SMD=m&FRE=10" class="card-link">Más detalles en ibpindex</a>
             </div>
         </div>
     </div>
