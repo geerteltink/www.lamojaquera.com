@@ -11,13 +11,27 @@ menu:
     weight: 30
 ---
 
-<div class="card">
-  <iframe class="card-img-top" frameBorder="0" scrolling="no" src="https://nl.wikiloc.com/wikiloc/spatialArtifacts.do?event=view&id=31832710&measures=off&title=off&near=off&images=off&maptype=H" style="width:100%;height:400px;"></iframe>
-  <div class="card-body">
-    <h5 class="card-title">La Mojaquera Corta 2019</h5>
-    <p class="card-text">
-        <strong>Distancia:</strong> 42,56 km <strong>Desnivel:</strong> 1.238 m
-    </p>
-    <a href="https://wikiloc.com/routes-mountainbike/mojacar-mojacar-31832710" class="card-link">Más detalles en Wikiloc</a>
-  </div>
+<div class="row">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h5 class="card-title">La Mojaquera Larga 2019</h5>
+            </div>
+            <iframe class="card-img" frameBorder="0" scrolling="no" src="https://es.wikiloc.com/wikiloc/spatialArtifacts.do?event=view&id=31301687&measures=on&title=off&near=off&images=off&maptype=H" style="width:100%;height:400px;"></iframe>
+            <div class="card-footer">
+                <a href="https://es.wikiloc.com/rutas-mountain-bike/la-mojaquera-2019-31301687" class="card-link">Más detalles en Wikiloc</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h5 class="card-title">La Mojaquera Corta 2019</h5>
+            </div>
+            <iframe class="card-img-top" frameBorder="0" scrolling="no" src="https://es.wikiloc.com/wikiloc/spatialArtifacts.do?event=view&id=31832710&measures=on&title=off&near=off&images=off&maptype=H" style="width:100%;height:400px;"></iframe>
+            <div class="card-footer">
+                <a href="https://es.wikiloc.com/rutas-mountain-bike/mojacar-mojacar-31832710" class="card-link">Más detalles en Wikiloc</a>
+            </div>
+        </div>
+    </div>
 </div>
