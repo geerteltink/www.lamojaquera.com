@@ -11,7 +11,7 @@ menu:
 
 <h1>Patrocinadores</h1>
 <hr>
-<div class="card-deck">
+<div class="card-deck photocall">
     {{< photocall title="Ayuntamiento Mojacar" src="/img/logo/ayuntamiento-mojacar.jpg" href="#" >}}
     {{< photocall title="New House Spain" src="/img/logo/new-house-spain.jpg" href="#" >}}
     {{< photocall title="Aceite Valle del Almanzora" src="/img/logo/aceite-valle-del-almanzora.jpg" href="#" >}}
@@ -31,7 +31,7 @@ menu:
 
 <h1>Colaboran</h1>
 <hr>
-<div class="card-deck">
+<div class="card-deck photocall">
     {{< photocall title="xtreamwayz" src="/img/logo/xtreamwayz.jpg" href="https://www.xtreamwayz.com/" >}}
     {{< photocall title="Mojaqua Nexa" src="/img/logo/mojaqua-nexa.jpg" href="http://www.cooperacion2005.es/gestion-instalaciones/mojaqua-piscina-cubierta-municipal-de-mojacar/" >}}
     {{< photocall title="Saltapitas MTB" src="/img/logo/saltapitas.jpg" href="https://www.facebook.com/saltapitasmojacar.grupociclista.5" >}}

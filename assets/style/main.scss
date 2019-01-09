@@ -284,14 +284,18 @@
   }
 }
 
-.card-logo {
-  min-width: 156px;
-  max-width: 196px;
+.photocall {
+  flex-flow: row wrap;
 }
 
-.card-logo-img {}
+.photocall-logo {
+  min-width: 148px;
+  max-width: 164px;
+}
 
-.card-logo-footer {
+.photocall-img {}
+
+.photocall-footer {
   padding: .5rem;
   white-space: nowrap;
   overflow-x: hidden;
