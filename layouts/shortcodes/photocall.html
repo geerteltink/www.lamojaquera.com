@@ -1,0 +1,6 @@
+{{- $img := resources.Get (.Get "src") -}}
+{{- $hashed := $img | resources.Fingerprint "md5" -}}
+<a href="{{ .Get "href" }}" class="card card-logo m-1 shadow-sm">
+    <img alt="{{ .Get "title" }}" class="card-img-top card-logo-img img-fluid" src="{{- $hashed.RelPermalink -}}">
+    <div class="card-footer card-logo-footer">{{ .Get "title" }}</div>
+</a>

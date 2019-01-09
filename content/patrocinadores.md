@@ -9,41 +9,43 @@ menu:
     weight: 40
 ---
 
+<h1>Patrocinadores</h1>
+<hr>
 <div class="card-deck">
-    <a href="http://www.cooperacion2005.es/gestion-instalaciones/mojaqua-piscina-cubierta-municipal-de-mojacar/" class="card card-logo mb-3 shadow-sm">
-        <img alt="Mojaqua Nexa" class="card-img-top card-logo-img img-fluid" src="{{< imgurl "/img/logo/mojaqua-nexa.jpg" >}}">
-        <div class="card-footer card-logo-footer">Mojaqua Nexa</div>
-    </a>
-    <a href="https://www.facebook.com/saltapitasmojacar.grupociclista.5" class="card card-logo mb-3 shadow-sm">
-        <img alt="Saltapitas MTB" class="card-img-top card-logo-img img-fluid" src="{{< imgurl "/img/logo/saltapitas.jpg" >}}">
-        <div class="card-footer card-logo-footer">Saltapitas MTB</div>
-    </a>
-    <a href="http://www.costabike.es/" class="card card-logo mb-3 shadow-sm">
-        <img alt="Costa bike" class="card-img-top card-logo-img img-fluid" src="{{< imgurl "/img/logo/costa-bike.jpg" >}}">
-        <div class="card-footer card-logo-footer">Costa bike</div>
-    </a>
-    <a href="https://www.facebook.com/pages/Koi-Cafeteria/110044509068968" class="card card-logo mb-3 shadow-sm">
-        <img alt="Koi Cafeteria" class="card-img-top card-logo-img img-fluid" src="{{< imgurl "/img/logo/koi.jpg" >}}">
-        <div class="card-footer card-logo-footer">Koi Cafeteria</div>
-    </a>
-    <a href="#" class="card card-logo mb-3 shadow-sm">
-        <img alt="Piscinas Miguel" class="card-img-top card-logo-img img-fluid" src="{{< imgurl "/img/logo/piscinas-miguel.jpg" >}}">
-        <div class="card-footer card-logo-footer">Piscinas Miguel</div>
-    </a>
-    <a href="http://www.aguilabike.com/" class="card card-logo mb-3 shadow-sm">
-        <img alt="Aguila Bike" class="card-img-top card-logo-img img-fluid" src="{{< imgurl "/img/logo/aguila-bike.jpg" >}}">
-        <div class="card-footer card-logo-footer">Aguila Bike</div>
-    </a>
-    <a href="http://www.andinasracing.es/" class="card card-logo mb-3 shadow-sm">
-        <img alt="Andinas Adventures" class="card-img-top card-logo-img img-fluid" src="{{< imgurl "/img/logo/andinas-adventures.jpg" >}}">
-        <div class="card-footer card-logo-footer">Andinas Adventures</div>
-    </a>
-    <a href="https://www.servigroup.com/" class="card card-logo mb-3 shadow-sm">
-        <img alt="Hotel Marina Playa ****" class="card-img-top card-logo-img img-fluid" src="{{< imgurl "/img/logo/hoteles-servi-group.jpg" >}}">
-        <div class="card-footer card-logo-footer">Hotel Marina Playa</div>
-    </a>
-    <a href="http://www.continental-mojacar.es/" class="card card-logo mb-3 shadow-sm">
-        <img alt="Hotel Continental" class="card-img-top card-logo-img img-fluid" src="{{< imgurl "/img/logo/hotel-continental.jpg" >}}">
-        <div class="card-footer card-logo-footer">Hotel Continental</div>
-    </a>
+    {{< photocall title="Ayuntamiento Mojacar" src="/img/logo/ayuntamiento-mojacar.jpg" href="#" >}}
+    {{< photocall title="New House Spain" src="/img/logo/new-house-spain.jpg" href="#" >}}
+    {{< photocall title="Aceite Valle del Almanzora" src="/img/logo/aceite-valle-del-almanzora.jpg" href="#" >}}
+    {{< photocall title="Asesoria Torres" src="/img/logo/asesoria-torres.jpg" href="#" >}}
+    {{< photocall title="Coca Cola" src="/img/logo/coca-cola.jpg" href="#" >}}
+    {{< photocall title="Cuquiline Team" src="/img/logo/cuquiline-team.jpg" href="#" >}}
+    {{< photocall title="Dektone" src="/img/logo/dekton-ultracompact-surface.jpg" href="#" >}}
+    {{< photocall title="Extin-Torres" src="/img/logo/extin-torres.jpg" href="#" >}}
+    {{< photocall title="Hotel Continental" src="/img/logo/hotel-continental.jpg" href="http://www.continental-mojacar.es/" >}}
+    {{< photocall title="Hotel Puntazo" src="/img/logo/hotel-puntazo.jpg" href="#" >}}
+    {{< photocall title="San Pedro" src="/img/logo/san-pedro.jpg" href="#" >}}
+    {{< photocall title="Hotel Marina Playa ****" src="/img/logo/hoteles-servi-group.jpg" href="https://www.servigroup.com/" >}}
+    {{< photocall title="Opticos Indalo" src="/img/logo/opticas-indalo.jpg" href="#" >}}
+    {{< photocall title="Primaflor" src="/img/logo/primaflor.jpg" href="#" >}}
+    {{< photocall title="Sportin Pursuits" src="/img/logo/sporting-persuits.jpg" href="#" >}}
+</div>
+
+<h1>Colaboran</h1>
+<hr>
+<div class="card-deck">
+    {{< photocall title="xtreamwayz" src="/img/logo/xtreamwayz.jpg" href="https://www.xtreamwayz.com/" >}}
+    {{< photocall title="Mojaqua Nexa" src="/img/logo/mojaqua-nexa.jpg" href="http://www.cooperacion2005.es/gestion-instalaciones/mojaqua-piscina-cubierta-municipal-de-mojacar/" >}}
+    {{< photocall title="Saltapitas MTB" src="/img/logo/saltapitas.jpg" href="https://www.facebook.com/saltapitasmojacar.grupociclista.5" >}}
+    {{< photocall title="Koi" src="/img/logo/koi.jpg" href="https://www.facebook.com/pages/Koi-Cafeteria/110044509068968" >}}
+    {{< photocall title="Aguila Bike" src="/img/logo/aguila-bike.jpg" href="http://www.aguilabike.com/" >}}
+    {{< photocall title="Wolfbike" src="/img/logo/wolfbike.jpg" href="#" >}}
+    {{< photocall title="Ahi Mas Wimax" src="/img/logo/wimax.jpg" href="#" >}}
+    {{< photocall title="Fontalmanzora" src="/img/logo/fontalmanzora.jpg" href="https://www.fontalmanzora.es/" >}}
+    {{< photocall title="Francisco Rosa Garcia" src="/img/logo/francisco-rosa-garcia.jpg" href="#" >}}
+    {{< photocall title="Bicicletas Gonzalo" src="/img/logo/bicicletas-gonzalo.jpg" href="#" >}}
+    {{< photocall title="BSA FDP" src="/img/logo/bsa-fdp.jpg" href="#" >}}
+    {{< photocall title="Lufran Bike Sport" src="/img/logo/lufran-bike-sport.jpg" href="#" >}}
+    {{< photocall title="Pedal Bike" src="/img/logo/pedal-bike.jpg" href="#" >}}
+    {{< photocall title="R/Action" src="/img/logo/raction.jpg" href="#" >}}
+    {{< photocall title="Jesus Del Nero" src="/img/logo/jesus-del-nero.jpg" href="#" >}}
+    {{< photocall title="BikeRun Sport" src="/img/logo/bikerun-sport.jpg" href="#" >}}
 </div>
