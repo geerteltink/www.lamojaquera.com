@@ -33,8 +33,9 @@ menu:
 <hr>
 <div class="card-deck photocall">
     {{< photocall title="xtreamwayz" src="/img/logo/xtreamwayz.jpg" href="https://www.xtreamwayz.com/" >}}
-    {{< photocall title="Mojaqua Nexa" src="/img/logo/mojaqua-nexa.jpg" href="http://www.cooperacion2005.es/gestion-instalaciones/mojaqua-piscina-cubierta-municipal-de-mojacar/" >}}
+    {{< photocall title="Mojacar Bike CCD" src="/img/logo/mojacar-bike.jpg" href="https://www.facebook.com/mojacarbikeccd/" >}}
     {{< photocall title="Saltapitas MTB" src="/img/logo/saltapitas.jpg" href="https://www.facebook.com/saltapitasmojacar.grupociclista.5" >}}
+    {{< photocall title="Mojaqua Nexa" src="/img/logo/mojaqua-nexa.jpg" href="http://www.cooperacion2005.es/gestion-instalaciones/mojaqua-piscina-cubierta-municipal-de-mojacar/" >}}
     {{< photocall title="Koi" src="/img/logo/koi.jpg" href="https://www.facebook.com/pages/Koi-Cafeteria/110044509068968" >}}
     {{< photocall title="Aguila Bike" src="/img/logo/aguila-bike.jpg" href="http://www.aguilabike.com/" >}}
     {{< photocall title="Wolfbike" src="/img/logo/wolfbike.jpg" href="#" >}}
