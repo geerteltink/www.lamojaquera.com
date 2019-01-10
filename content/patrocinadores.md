@@ -9,12 +9,22 @@ menu:
     weight: 40
 ---
 
+<div class="card-deck photocall">
+    {{< photocall title="Ayuntamiento Mojacar" src="/img/logo/ayuntamiento-mojacar.jpg" href="#" >}}
+    {{< photocall title="Ayuntamiento Carboneras" src="/img/logo/ayuntamiento-carboneras.jpg" href="#" >}}
+    {{< photocall title="Ayuntamiento Turre" src="/img/logo/ayuntamiento-turre.jpg" href="#" >}}
+    {{< photocall title="Proteccion Civil" src="/img/logo/proteccion-civil.jpg" href="#" >}}
+    {{< photocall title="Cruz Roja Espana" src="/img/logo/cruz-roja-espana.jpg" href="#" >}}
+    {{< photocall title="DGT" src="/img/logo/dgt.jpg" href="#" >}}
+    {{< photocall title="Diputacion Almeria" src="/img/logo/diputacion-almeria.jpg" href="#" >}}
+    {{< photocall title="Federacion Andaluza de Ciclismo" src="/img/logo/federacion-andaluza-de-ciclismo.jpg" href="#" >}}
+</div>
+
 <h1>Patrocinadores</h1>
 <hr>
 <div class="card-deck photocall">
-    {{< photocall title="Ayuntamiento Mojacar" src="/img/logo/ayuntamiento-mojacar.jpg" href="#" >}}
     {{< photocall title="New House Spain" src="/img/logo/new-house-spain.jpg" href="#" >}}
-    {{< photocall title="Aceite Valle del Almanzora" src="/img/logo/aceite-valle-del-almanzora.jpg" href="#" >}}
+    {{< photocall title="Valle del Almanzora" src="/img/logo/aceite-valle-del-almanzora.jpg" href="#" >}}
     {{< photocall title="Asesoria Torres" src="/img/logo/asesoria-torres.jpg" href="#" >}}
     {{< photocall title="Coca Cola" src="/img/logo/coca-cola.jpg" href="#" >}}
     {{< photocall title="Cuquiline Team" src="/img/logo/cuquiline-team.jpg" href="#" >}}
