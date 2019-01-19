@@ -43,7 +43,7 @@ menu:
 <h1>Colaboran</h1>
 <hr>
 <div class="card-deck photocall">
-    {{< photocall title="xtreamwayz" src="/img/logo/xtreamwayz.jpg" href="https://www.xtreamwayz.com/" >}}
+    {{< photocall title="xtreamwayz web developer" src="/img/logo/xtreamwayz.jpg" href="https://www.xtreamwayz.com/" >}}
     {{< photocall title="Mojacar Bike CCD" src="/img/logo/mojacar-bike.jpg" href="https://www.facebook.com/mojacarbikeccd/" >}}
     {{< photocall title="Saltapitas MTB" src="/img/logo/saltapitas.jpg" href="https://www.facebook.com/saltapitasmojacar.grupociclista.5" >}}
     {{< photocall title="Mojaqua Nexa" src="/img/logo/mojaqua-nexa.jpg" href="http://www.cooperacion2005.es/gestion-instalaciones/mojaqua-piscina-cubierta-municipal-de-mojacar/" >}}
@@ -59,6 +59,7 @@ menu:
     {{< photocall title="Jesus Del Nero" src="/img/logo/jesus-del-nero.jpg" href="#" >}}
     {{< photocall title="Lufran Bike Sport" src="/img/logo/lufran-bike-sport.jpg" href="#" >}}
     {{< photocall title="Pedal Bike" src="/img/logo/pedal-bike.jpg" href="#" >}}
+    {{< photocall title="Oxygen Bike" src="/img/logo/oxygen-bike.jpg" href="#" >}}
     {{< photocall title="R/Action" src="/img/logo/raction.jpg" href="#" >}}
     {{< photocall title="Wolfbike" src="/img/logo/wolfbike.jpg" href="#" >}}
 </div>
