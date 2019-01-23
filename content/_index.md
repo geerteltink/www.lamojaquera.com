@@ -15,17 +15,17 @@ menu:
     <div class="row mb-3">
     <div class="col-md-8">
         <p class="mb-3">
-            La Sierra Cabrera Xtreme / La Mojaquera, es una Maraton MTB concebida y desarrollada para la diversión
-            y superación. La organización es personal (much@s me conoceis) y no perseguimos el lucro, todo lo
-            recaudado se invierte en la carrera, es decir en vosotr@s. La realizamos por pura afición a este
-            deporte, diversión y por veros año tras año. La carrera discurre por las laderas SurEste de Sierra Cabrera.
+            La Sierra Cabrera Xtreme / La Mojaquera, es una Maratón MTB concebida y desarrollada para la diversión y 
+            superación. La organización es personal (much@s me conocéis) y no perseguimos el lucro, todo lo recaudado 
+            se invierte en la carrera, es decir en vosotr@s. La realizamos por pura afición a este deporte, diversión 
+            y por veros año tras año. La carrera discurre por las laderas Sur Este de Sierra Cabrera.
         </p>
         <p class="mb-5">
-            Esta edicion 2019 viene cargada de cambios y mejoras, al igual que en ediciones anteriores, discurrirá prácticamente en
-            todo su recorrido por caminos de tierra (pistas en la mayoría de los casos), ramblas y muchas sendas.
-            Una de las novedades destacbles es la SALIDA/META que la tendremo en Mojácar Pueblo. Otra de las novedades son 
-            las sendas de Los Miradores, este es un paso muy espectacular donde pondremos a prueba desafios personales, 
-            pero sin perder de vista el Mediterraneo.
+            Esta edición 2019 viene cargada de cambios y mejoras, al igual que en ediciones anteriores, discurrirá 
+            prácticamente en todo su recorrido por caminos de tierra (pistas en la mayoría de los casos), ramblas y 
+            muchas sendas. Una de las novedades destacables es la SALIDA/META que la tendremos en Mojácar Pueblo. 
+            Otra de las novedades son las sendas de Los Miradores, este es un paso muy espectacular donde pondremos 
+            a prueba desafíos personales, pero sin perder de vista el Mediterráneo.
         </p>
         <div class="card-deck">
             <div class="card border-primary mb-3" style="min-width: 256px;">
