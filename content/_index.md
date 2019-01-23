@@ -18,8 +18,7 @@ menu:
             La Sierra Cabrera Xtreme / La Mojaquera, es una Maraton MTB concebida y desarrollada para la diversión
             y superación. La organización es personal (much@s me conoceis) y no perseguimos el lucro, todo lo
             recaudado se invierte en la carrera, es decir en vosotr@s. La realizamos por pura afición a este
-            deporte, diversión y por veros año tras año. La carrera discurre por tres Terminos Municipales
-            (Mojácar, Turre y Carboneras).
+            deporte, diversión y por veros año tras año. La carrera discurre por las laderas SurEste de Sierra Cabrera.
         </p>
         <p class="mb-5">
             Esta edicion 2019 viene cargada de cambios y mejoras, al igual que en ediciones anteriores, discurrirá prácticamente en
