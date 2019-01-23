@@ -1,6 +1,15 @@
 <footer class="app-footer">
     <div class="container">
         <div class="d-flex flex-column flex-md-row justify-content-between">
+            <ul class="nav flex-column">
+                <li class="nav-item">
+                    <a class="nav-link btn btn-outline-light my-3" href="https://mailchi.mp/4dbb345a6893/la-mojaquera" target="_blank">
+                        Manténgase informado y suscríbase a nuestra lista de correo.
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="d-flex flex-column flex-md-row justify-content-between">
             {{ $currentPage := . }}
             {{ range .Site.Menus.main }}
             <ul class="nav flex-column">
