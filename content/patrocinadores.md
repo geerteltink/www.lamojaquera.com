@@ -63,4 +63,5 @@ menu:
     {{< photocall title="R/Action" src="/img/logo/raction.jpg" href="#" >}}
     {{< photocall title="Wolfbike" src="/img/logo/wolfbike.jpg" href="#" >}}
     {{< photocall title="Embutidos y Jamones Peña Cruz" src="/img/logo/embutidos-pena-cruz.jpg" href="https://embutidospcruz.com/" >}}
+    {{< photocall title="Image World" src="/img/logo/image-world.jpg" href="#" >}}
 </div>
