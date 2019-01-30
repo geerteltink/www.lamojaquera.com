@@ -9,7 +9,7 @@ menu:
     weight: 10
 ---
 
-<img src="{{< imgurl "/img/cartel-2019.jpg" >}}" class="w-100 img-fluid mb-3" alt="La Mojaquera 2019">
+<img src="{{< imgurl "/img/banner-2019.jpg" >}}" class="w-100 img-fluid mb-3" alt="La Mojaquera 2019">
 
 <main class="container d-flex">
     <div class="row mb-3">

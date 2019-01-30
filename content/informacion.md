@@ -43,15 +43,19 @@ menu:
     </div>
     <div class="col-sm-4">
         <div class="card mb-3">
-            <img class="card-img-top" src="{{< imgurl "/img/cartel-2019.jpg" >}}" alt="Cartel">
+            <img class="card-img-top" src="{{< imgurl "/img/banner-2019.jpg" >}}" alt="Banner Redes Sociales">
             <div class="card-body">
-                <a href="{{< imgurl "/img/cartel-2019.jpg" >}}" target="_blank" class="card-link">Descargar</a>
+                <a href="{{< imgurl "/img/banner-2019.jpg" >}}" target="_blank" class="card-link">
+                    Descargar banner redes sociales
+                </a>
             </div>
         </div>
         <div class="card mb-3">
-            <img class="card-img-top" src="{{< imgurl "/img/cartel-2019-larga.jpg" >}}" alt="Cartel">
+            <img class="card-img-top" src="{{< imgurl "/img/cartel-2019.jpg" >}}" alt="Cartel">
             <div class="card-body">
-                <a href="{{< imgurl "/img/cartel-2019-larga.jpg" >}}" target="_blank" class="card-link">Descargar</a>
+                <a href="{{< imgurl "/img/cartel-2019.jpg" >}}" target="_blank" class="card-link">
+                    Descargar cartel
+                </a>
             </div>
         </div>
     </div>
