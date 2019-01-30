@@ -64,4 +64,5 @@ menu:
     {{< photocall title="Wolfbike" src="/img/logo/wolfbike.jpg" href="#" >}}
     {{< photocall title="Embutidos y Jamones Peña Cruz" src="/img/logo/embutidos-pena-cruz.jpg" href="https://embutidospcruz.com/" >}}
     {{< photocall title="Image World" src="/img/logo/image-world.jpg" href="#" >}}
+    {{< photocall title="Posada de Pedrazales" src="/img/logo/posada-de-pedrazales.jpg" href="http://www.laposadadepedrazales.com/" >}}
 </div>
