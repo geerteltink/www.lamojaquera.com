@@ -23,7 +23,6 @@ menu:
 <h1>Patrocinadores</h1>
 <hr>
 <div class="card-deck photocall">
-    {{< photocall title="New House Spain" src="/img/logo/new-house-spain.jpg" href="#" >}}
     {{< photocall title="Asesoria Torres" src="/img/logo/asesoria-torres.jpg" href="#" >}}
     {{< photocall title="Coca Cola" src="/img/logo/coca-cola.jpg" href="#" >}}
     {{< photocall title="Cuquiline Team" src="/img/logo/cuquiline-team.jpg" href="#" >}}
@@ -33,7 +32,9 @@ menu:
     {{< photocall title="Hotel Marina Playa ****" src="/img/logo/hoteles-servi-group.jpg" href="https://www.servigroup.com/" >}}
     {{< photocall title="Hotel Puntazo" src="/img/logo/hotel-puntazo.jpg" href="#" >}}
     {{< photocall title="ILario Imperial" src="/img/logo/llario-imperial.jpg" href="#" >}}
+    {{< photocall title="New House Spain" src="/img/logo/new-house-spain.jpg" href="#" >}}
     {{< photocall title="Opticos Indalo" src="/img/logo/opticas-indalo.jpg" href="#" >}}
+    {{< photocall title="Piscinas Miguel" src="/img/logo/piscinas-miguel.jpg" href="#" >}}
     {{< photocall title="Primaflor" src="/img/logo/primaflor.jpg" href="#" >}}
     {{< photocall title="San Pedro" src="/img/logo/san-pedro.jpg" href="#" >}}
     {{< photocall title="Sportin Pursuits" src="/img/logo/sporting-persuits.jpg" href="#" >}}
