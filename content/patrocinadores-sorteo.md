@@ -20,7 +20,7 @@ Sorteo de regalos para los participantes despues el buffet en Hotel Marina Playa
     {{< card-column title="Bicicletas Gonzaloe" src="/img/sorteo/bicicletas-gonzalo.jpg" href="#" >}}
     {{< card-column title="BikeRun Sport" src="/img/sorteo/bikerun-sport.jpg" href="#" >}}
     {{< card-column title="Costabike" src="/img/sorteo/costabike.jpg" href="#" >}}
-    {{< card-column title="La Mojaquera" src="/img/sorteo/la-mojaquera.png" href="#" >}}
+    {{< card-column title="La Mojaquera" src="/img/sorteo/la-mojaquera.jpg" href="#" >}}
     {{< card-column title="Lufran Bike Sport" src="/img/sorteo/lufran.jpg" href="#" >}}
     {{< card-column title="mips" src="/img/sorteo/mips.jpg" href="#" >}}
     {{< card-column title="New House Spain" src="/img/sorteo/new-house-spain.jpg" href="#" >}}
