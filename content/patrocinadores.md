@@ -6,6 +6,7 @@ bannerimage: /img/photocall.jpg
 bannertext: Patrocinadores
 menu:
   main:
+    identifier: patrocinadores
     weight: 40
 ---
 

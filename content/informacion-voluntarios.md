@@ -8,7 +8,7 @@ url: /informacion/voluntarios/
 menu:
   main:
     parent: informacion
-    weight: 60
+    weight: 80
 ---
 
 ## Quieres ser VOLUNTARI@ en La Mojaquera 2019?
