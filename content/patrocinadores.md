@@ -67,4 +67,5 @@ menu:
     {{< photocall title="Embutidos y Jamones Peña Cruz" src="/img/logo/embutidos-pena-cruz.jpg" href="https://embutidospcruz.com/" >}}
     {{< photocall title="Image World" src="/img/logo/image-world.jpg" href="#" >}}
     {{< photocall title="Posada de Pedrazales" src="/img/logo/posada-de-pedrazales.jpg" href="http://www.laposadadepedrazales.com/" >}}
+    {{< photocall title="Hospederia Ancladero" src="/img/logo/hospederia-ancladero.jpg" href="#" >}}
 </div>
