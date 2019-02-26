@@ -36,7 +36,6 @@ menu:
     {{< photocall title="New House Spain" src="/img/logo/new-house-spain.jpg" href="#" >}}
     {{< photocall title="Opticos Indalo" src="/img/logo/opticas-indalo.jpg" href="#" >}}
     {{< photocall title="Piscinas Miguel" src="/img/logo/piscinas-miguel.jpg" href="#" >}}
-    {{< photocall title="Primaflor" src="/img/logo/primaflor.jpg" href="#" >}}
     {{< photocall title="San Pedro" src="/img/logo/san-pedro.jpg" href="#" >}}
     {{< photocall title="Sportin Pursuits" src="/img/logo/sporting-persuits.jpg" href="#" >}}
     {{< photocall title="Valle del Almanzora" src="/img/logo/aceite-valle-del-almanzora.jpg" href="#" >}}
