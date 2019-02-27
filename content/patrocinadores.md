@@ -25,7 +25,6 @@ menu:
 <hr>
 <div class="card-deck photocall">
     {{< photocall title="Asesoria Torres" src="/img/logo/asesoria-torres.jpg" href="#" >}}
-    {{< photocall title="Coca Cola" src="/img/logo/coca-cola.jpg" href="#" >}}
     {{< photocall title="Cuquiline Team" src="/img/logo/cuquiline-team.jpg" href="#" >}}
     {{< photocall title="Dektone" src="/img/logo/dekton-ultracompact-surface.jpg" href="#" >}}
     {{< photocall title="Extin-Torres" src="/img/logo/extin-torres.jpg" href="#" >}}
