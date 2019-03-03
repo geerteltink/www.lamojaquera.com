@@ -31,20 +31,6 @@ menu:
     </li>
     <li class="timeline-item">
         <div class="timeline-icon"></div>
-        <div class="timeline-date">3 Marzo 2019 <span>8:00</span></div>
-        <div class="timeline-content">
-            <h2 class="timeline-title">Reconocimiento La Mojaquera Largo 2019</h2>
-        </div>
-    </li>
-    <li class="timeline-item">
-        <div class="timeline-icon"></div>
-        <div class="timeline-date">10 Marzo 2019 <span>8:00</span></div>
-        <div class="timeline-content">
-            <h2 class="timeline-title">Reconocimiento La Mojaquera Corta 2019</h2>
-        </div>
-    </li>
-    <li class="timeline-item">
-        <div class="timeline-icon"></div>
         <div class="timeline-date">16 Marzo 2019 <span>17:30 - 20:30</span></div>
         <div class="timeline-content">
             <h2 class="timeline-title">Recogida de dorsales y bolsa del corredor</h2>
