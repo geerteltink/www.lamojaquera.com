@@ -6,6 +6,7 @@ bannerimage: /img/voluntarios-motos.jpg
 bannertext: Galería
 menu:
   main:
+    identifier: galeria
     weight: 50
 ---
 

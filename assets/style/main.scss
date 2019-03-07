@@ -262,6 +262,18 @@
   box-shadow: 0 0 0 4px #fff, inset 0 2px 0 rgba(0, 0, 0, .08), 0 3px 0 4px rgba(0, 0, 0, .05);
 }
 
+.galery-card {
+  min-width: 20%;
+  max-width: 50%;
+  margin-bottom: 1rem !important;
+}
+
+.galery-img {
+    width: 100%;
+    height: 20vh;
+    object-fit: cover;
+}
+
 @media (min-width: 576px) {
   .timeline-item {
     margin-left: 10rem
