@@ -13,7 +13,7 @@ menu:
 <h1 class="mb-5">Galería VII Sierra Cabrera Xtreme: La Mojaquera 2018<h1>
 
 <div class="card-deck galery">
-  <div class="card text-white text-center bg-warning galery-card">
+  <div class="card text-white text-center bg-danger galery-card">
     {{< youtube GeqLC-AS74g >}}
   </div>
   <a href="https://photos.app.goo.gl/sEYtBA5snzfdBWQAA" class="card text-white text-center bg-danger galery-card">
