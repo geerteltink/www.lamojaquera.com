@@ -14,17 +14,20 @@ menu:
 <div class="container">
 <div class="card-deck">
     <div class="card border-danger mb-3" style="min-width: 128px;">
-    <div class="card-body text-danger">
-        <a href="/pdf/guia-del-corredor-2019.pdf" class="card-link d-block text-danger text-center">Guia del corredor (PDF)</a>
+    <div class="card-body text-danger font-weight-bold">
+        <a href="/pdf/guia-del-corredor-2019.pdf" class="card-link d-block text-danger text-center">
+            Guia del corredor (PDF)<br/>
+            <span class="font-weight-normal small">(Fecha impresión: 12/03/2019 14:00)</span>
+        </a>
     </div>
     </div>
     <div class="card border-danger mb-3" style="min-width: 128px;">
-    <div class="card-body text-danger">
+    <div class="card-body text-danger font-weight-bold">
         <a href="/informacion/perfil" class="card-link d-block text-danger text-center">Ruta 2019</a>
     </div>
     </div>
     <div class="card border-danger mb-3" style="min-width: 128px;">
-    <div class="card-body text-danger">
+    <div class="card-body text-danger font-weight-bold">
         <a href="/informacion/equipacion" class="card-link d-block text-danger text-center">Informacion equipacion</a>
     </div>
     </div>
