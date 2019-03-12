@@ -1,14 +1,22 @@
 <footer class="app-footer">
     <div class="container">
-        <div class="d-flex flex-column flex-md-row justify-content-between">
-            <ul class="nav flex-column">
+            <ul class="nav justify-content-between">
                 <li class="nav-item">
-                    <a class="nav-link btn btn-outline-light my-3" href="https://mailchi.mp/4dbb345a6893/la-mojaquera" target="_blank" title="Manténgase informado y suscríbase a nuestra lista de correo">
+                    <a class="nav-link btn btn-outline-light my-3 mr-3" href="https://mailchi.mp/4dbb345a6893/la-mojaquera" target="_blank" title="Manténgase informado y suscríbase a nuestra lista de correo">
                         Suscríbase a nuestra lista de correo
                     </a>
                 </li>
+                <li class="nav-item">
+                    <a href="/galeria-2019" class="nav-link btn btn-outline-light my-3">
+                        Photos 2019
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="/pdf/guia-del-corredor-2019.pdf" class="nav-link btn btn-outline-light my-3">
+                        Guia del corredor (PDF)
+                    </a>
+                </li>
             </ul>
-        </div>
         <div class="d-flex flex-column flex-md-row justify-content-between">
             {{ $currentPage := . }}
             {{ range .Site.Menus.main }}
