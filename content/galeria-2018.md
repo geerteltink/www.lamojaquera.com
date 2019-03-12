@@ -2,7 +2,7 @@
 title: "Galería 2018"
 date: 2019-03-07T8:00:00+02:00
 draft: false
-bannerimage: /img/baner-2018.jpg
+bannerimage: /img/banner-2018.jpg
 bannertext: Galería 2018
 menu:
   main:
