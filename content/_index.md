@@ -17,7 +17,7 @@ menu:
     <div class="card-body text-danger font-weight-bold">
         <a href="/pdf/guia-del-corredor-2019.pdf" class="card-link d-block text-danger text-center">
             Guia del corredor (PDF)<br/>
-            <span class="font-weight-normal small">(Fecha impresión: 12/03/2019 14:00)</span>
+            <span class="font-weight-normal small">(Fecha impresión: 13/03/2019 10:51)</span>
         </a>
     </div>
     </div>
