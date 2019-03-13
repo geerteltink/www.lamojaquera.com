@@ -34,6 +34,7 @@ menu:
     {{< photocall title="ILario Imperial" src="/img/logo/llario-imperial.jpg" href="#" >}}
     {{< photocall title="New House Spain" src="/img/logo/new-house-spain.jpg" href="#" >}}
     {{< photocall title="Opticos Indalo" src="/img/logo/opticas-indalo.jpg" href="#" >}}
+    {{< photocall title="Pepsi" src="/img/logo/pepsi.jpg" href="#" >}}
     {{< photocall title="Piscinas Miguel" src="/img/logo/piscinas-miguel.jpg" href="#" >}}
     {{< photocall title="San Pedro" src="/img/logo/san-pedro.jpg" href="#" >}}
     {{< photocall title="Sportin Pursuits" src="/img/logo/sporting-persuits.jpg" href="#" >}}
