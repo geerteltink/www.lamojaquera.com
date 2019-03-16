@@ -24,9 +24,9 @@ menu:
                 <li>Bolsa del corredor con regalos</li>
                 <li>Buffet libre en el restaurante de Hotel Marina Playa</li>
             </ul>
-            <a href="https://andaluciaciclismo.com/index.php/smartweb/inscripciones/prueba/12080-LA-MOJAQUERA" class="btn btn-lg btn-block btn-warning">
-                Registrarse ahora
-            </a>
+            <div class="btn btn-lg btn-block btn-warning">
+                Las inscripciones están cerradas
+            </div>
         </div>
     </div>
     <div class="card text-white bg-primary mb-4 box-shadow">
@@ -41,13 +41,12 @@ menu:
                 <li>Bolsa del corredor con regalos</li>
                 <li>Buffet libre en el restaurante de Hotel Marina Playa</li>
             </ul>
-            <a href="https://andaluciaciclismo.com/index.php/smartweb/inscripciones/prueba/12080-LA-MOJAQUERA" class="btn btn-lg btn-block btn-warning">
-                Registrarse ahora
-            </a>
+            <div class="btn btn-lg btn-block btn-warning">
+                Las inscripciones están cerradas
+            </div>
         </div>
     </div>
 </div>
-
 
 ## INFORMACIÓN DE LA PRUEBA
 
