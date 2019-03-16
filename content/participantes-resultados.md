@@ -11,6 +11,10 @@ menu:
     weight: 30
 ---
 
+# 2019
+
+- ...
+
 # 2018
 
 - Júnior: Juan Alberto Espinar (Mipez Racing Team)
