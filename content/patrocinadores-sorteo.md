@@ -2,7 +2,7 @@
 title: "Sorteo"
 date: 2018-12-21T10:00:00+02:00
 draft: false
-bannerimage: /img/mojacar.jpg
+bannerimage: /img/patrocinadores-sorteo.jpg
 bannertext: Sorteo
 url: /patrocinadores/sorteo/
 menu:
