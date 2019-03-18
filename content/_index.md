@@ -15,15 +15,18 @@ menu:
 <div class="card-deck">
     <div class="card border-danger mb-3" style="min-width: 128px;">
     <div class="card-body text-danger font-weight-bold">
-        <a href="/pdf/guia-del-corredor-2019.pdf" class="card-link d-block text-danger text-center">
-            Guia del corredor (PDF)<br/>
-            <span class="font-weight-normal small">(Fecha impresión: 13/03/2019 10:51)</span>
+        <a href="/galeria-2019" class="card-link d-block text-danger text-center">
+            Fotos 2019<br/>
+            <span class="font-weight-normal small">Las primeras fotos ya están subidas.</span>
         </a>
     </div>
     </div>
     <div class="card border-danger mb-3" style="min-width: 128px;">
     <div class="card-body text-danger font-weight-bold">
-        <a href="/informacion/perfil" class="card-link d-block text-danger text-center">Ruta 2019</a>
+        <a href="/pdf/guia-del-corredor-2019.pdf" class="card-link d-block text-danger text-center">
+            Guia del corredor (PDF)<br/>
+            <span class="font-weight-normal small">(Fecha impresión: 13/03/2019 10:51)</span>
+        </a>
     </div>
     </div>
     <div class="card border-danger mb-3" style="min-width: 128px;">
