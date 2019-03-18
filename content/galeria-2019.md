@@ -15,14 +15,21 @@ menu:
 <div class="card-deck galery">
     <a href="https://photos.app.goo.gl/7W8cSU4YaVjzcqpx7" class="card text-white text-center bg-danger galery-card">
         <div class="card-body">
-            <h2 class="card-title h6">Photos 2019</h5>
-            <h3 class="card-title h4">Organización</h5>
+            <h2 class="card-title h6">Photos 2019</h2>
+            <h3 class="card-title h4">Organización</h3>
         </div>
     </a>
     <a href="https://photos.app.goo.gl/sf6hKiD2BGV2eaYc9" class="card text-white text-center bg-danger galery-card">
         <div class="card-body">
-            <h2 class="card-title h6">Photos 2019</h5>
-            <h3 class="card-title h4">Carrera</h5>
+            <h2 class="card-title h6">Photos 2019</h2>
+            <h3 class="card-title h4">Carrera</h3>
         </div>
     </a>
+    <a href="https://photos.app.goo.gl/zFjC921ZsYn9osz58" class="card text-white text-center bg-danger galery-card">
+        <div class="card-body">
+            <h2 class="card-title h6">Photos 2019</h2>
+            <h3 class="card-title h4">Cuquiline Jose Antonio</h3>
+            <p class="card-text galery-card-text">Mojacar Pueblo</p>
+        </div>
+    </a>    
 </div>
