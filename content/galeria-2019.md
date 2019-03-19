@@ -19,6 +19,12 @@ menu:
             <h3 class="card-title h4">Organización</h3>
         </div>
     </a>
+    <a href="https://photos.app.goo.gl/gEZFc9zKF35Cw7Z68" class="card text-white text-center bg-danger galery-card">
+        <div class="card-body">
+            <h2 class="card-title h6">Videos 2019</h2>
+            <h3 class="card-title h4">Carrera</h3>
+        </div>
+    </a>
     <a href="https://photos.app.goo.gl/sf6hKiD2BGV2eaYc9" class="card text-white text-center bg-danger galery-card">
         <div class="card-body">
             <h2 class="card-title h6">Photos 2019</h2>
