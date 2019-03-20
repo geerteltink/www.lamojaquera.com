@@ -55,12 +55,6 @@ menu:
             El Moro
         </div>
     </a>
-    <!-- a href="#" class="card text-white text-center bg-danger galery-card">
-        <div class="card-body">
-            <h2 class="card-title h6">Photos 2019</h2>
-            <h3 class="card-title h4">Juan Francisco Gonzalez Torres</h3>
-        </div>
-    </a -->
     <a href="https://photos.app.goo.gl/ekDk3B46LFey3wF4A" class="card text-white text-center bg-danger galery-card">
         <div class="card-body">
             <h2 class="card-title h6">Photos 2019</h2>
@@ -86,6 +80,12 @@ menu:
         </div>
         <div class="card-footer galery-card-text">
             Sopalmo - Rambla La Granatilla
+        </div>
+    </a>
+    <a href="https://photos.app.goo.gl/9mqRkRyLCknfrkpM8" class="card text-white text-center bg-danger galery-card">
+        <div class="card-body">
+            <h2 class="card-title h6">Photos 2019</h2>
+            <h3 class="card-title h4">Juan Francisco Gonzalez Torres</h3>
         </div>
     </a>
     <a href="https://photos.app.goo.gl/KrRqvN1rLDirNuJd9" class="card text-white text-center bg-danger galery-card">
