@@ -88,6 +88,12 @@ menu:
             <h3 class="card-title h4">Juan Francisco Gonzalez Torres</h3>
         </div>
     </a>
+    <a href="https://photos.app.goo.gl/EUwZW6QRjLPg2i4V9" class="card text-white text-center bg-danger galery-card">
+        <div class="card-body">
+            <h2 class="card-title h6">Photos 2019</h2>
+            <h3 class="card-title h4">Jose Carlos Carrion Haro</h3>
+        </div>
+    </a>
     <a href="https://photos.app.goo.gl/KrRqvN1rLDirNuJd9" class="card text-white text-center bg-danger galery-card">
         <div class="card-body">
             <h2 class="card-title h6">Photos 2019</h2>
