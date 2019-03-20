@@ -92,6 +92,9 @@ menu:
         <div class="card-body">
             <h2 class="card-title h6">Photos 2019</h2>
             <h3 class="card-title h4">Jose Carlos Carrion Haro</h3>
+            <div class="card-footer galery-card-text">
+                Macenas
+            </div>
         </div>
     </a>
     <a href="https://photos.app.goo.gl/KrRqvN1rLDirNuJd9" class="card text-white text-center bg-danger galery-card">
