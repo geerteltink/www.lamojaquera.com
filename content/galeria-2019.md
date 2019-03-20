@@ -21,8 +21,8 @@ menu:
     </a>
     <a href="https://photos.app.goo.gl/gEZFc9zKF35Cw7Z68" class="card text-white text-center bg-danger galery-card">
         <div class="card-body">
-            <h2 class="card-title h6">Videos 2019</h2>
-            <h3 class="card-title h4">Carrera</h3>
+            <h2 class="card-title h6">2019</h2>
+            <h3 class="card-title h4">Videos</h3>
         </div>
     </a>
     <a href="https://photos.app.goo.gl/sf6hKiD2BGV2eaYc9" class="card text-white text-center bg-danger galery-card">
@@ -87,14 +87,17 @@ menu:
             <h2 class="card-title h6">Photos 2019</h2>
             <h3 class="card-title h4">Juan Francisco Gonzalez Torres</h3>
         </div>
+        <div class="card-footer galery-card-text">
+            Macenas
+        </div>
     </a>
     <a href="https://photos.app.goo.gl/EUwZW6QRjLPg2i4V9" class="card text-white text-center bg-danger galery-card">
         <div class="card-body">
             <h2 class="card-title h6">Photos 2019</h2>
             <h3 class="card-title h4">Jose Carlos Carrion Haro</h3>
-            <div class="card-footer galery-card-text">
-                Macenas
-            </div>
+        </div>
+        <div class="card-footer galery-card-text">
+            Bajada Senda Los Corralones
         </div>
     </a>
     <a href="https://photos.app.goo.gl/KrRqvN1rLDirNuJd9" class="card text-white text-center bg-danger galery-card">
