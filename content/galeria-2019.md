@@ -100,6 +100,21 @@ menu:
             Senda La Mena
         </div>
     </a>
+    <a href="https://photos.app.goo.gl/NBSW5NwarTY3stP99" class="card text-white text-center bg-danger galery-card">
+        <div class="card-body">
+            <h2 class="card-title h6">Photos 2019</h2>
+            <h3 class="card-title h4">Victor Lopez</h3>
+        </div>
+        <div class="card-footer galery-card-text">
+            Senda Los Pastores
+        </div>
+    </a>
+    <a href="https://photos.app.goo.gl/YQgrnSSuAycwNv1P7" class="card text-white text-center bg-danger galery-card">
+        <div class="card-body">
+            <h2 class="card-title h6">Photos 2019</h2>
+            <h3 class="card-title h4">Alfonso Buera Tello</h3>
+        </div>
+    </a>
     <a href="https://photos.app.goo.gl/KrRqvN1rLDirNuJd9" class="card text-white text-center bg-danger galery-card">
         <div class="card-body">
             <h2 class="card-title h6">Photos 2019</h2>
