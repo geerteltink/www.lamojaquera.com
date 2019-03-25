@@ -115,6 +115,33 @@ menu:
             <h3 class="card-title h4">Alfonso Buera Tello</h3>
         </div>
     </a>
+    <a href="https://photos.app.goo.gl/aGyYJVQgsDZfueAD6" class="card text-white text-center bg-danger galery-card">
+        <div class="card-body">
+            <h2 class="card-title h6">Photos 2019</h2>
+            <h3 class="card-title h4">Jose Antonio Rodriguez Cesar</h3>
+        </div>
+        <div class="card-footer galery-card-text">
+            Senda Los Corralones
+        </div>
+    </a>
+    <a href="https://photos.app.goo.gl/bPsmXy8scYkH2v4X7" class="card text-white text-center bg-danger galery-card">
+        <div class="card-body">
+            <h2 class="card-title h6">Photos 2019</h2>
+            <h3 class="card-title h4">Jose Guijarro</h3>
+        </div>
+        <div class="card-footer galery-card-text">
+            Sendas a Mojacar Pueblo
+        </div>
+    </a>
+    <a href="https://photos.app.goo.gl/hSTXy1CT6iRGrGCR9" class="card text-white text-center bg-danger galery-card">
+        <div class="card-body">
+            <h2 class="card-title h6">Photos 2019</h2>
+            <h3 class="card-title h4">Pelob Martinez</h3>
+        </div>
+        <div class="card-footer galery-card-text">
+            Mojacar Pueblo
+        </div>
+    </a>
     <a href="https://photos.app.goo.gl/KrRqvN1rLDirNuJd9" class="card text-white text-center bg-danger galery-card">
         <div class="card-body">
             <h2 class="card-title h6">Photos 2019</h2>
