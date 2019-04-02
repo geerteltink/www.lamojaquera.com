@@ -13,6 +13,9 @@ menu:
 <h1 class="mb-5">Galería VIII Sierra Cabrera Xtreme: La Mojaquera 2019<h1>
 
 <div class="card-deck galery">
+    <div class="card text-white text-center bg-danger galery-card">
+        {{< youtube zgU9bReGD1o >}}
+    </div>
     <a href="https://photos.app.goo.gl/7W8cSU4YaVjzcqpx7" class="card text-white text-center bg-danger galery-card">
         <div class="card-body">
             <h2 class="card-title h6">Photos 2019</h2>

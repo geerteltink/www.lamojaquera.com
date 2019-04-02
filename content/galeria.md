@@ -13,6 +13,14 @@ menu:
 <div class="row">
 <div class="col-md-4">
 <div class="card text-white bg-primary mb-3" style="min-width: 10rem;">
+  {{< youtube zgU9bReGD1o >}}
+  <div class="card-body">
+    <h5 class="card-title">VIII Sierra Cabrera Xtreme: La Mojaquera 2019</h5>
+  </div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="card text-white bg-primary mb-3" style="min-width: 10rem;">
   {{< youtube GeqLC-AS74g >}}
   <div class="card-body">
     <h5 class="card-title">VII Sierra Cabrera Xtreme: La Mojaquera 2018</h5>
