@@ -17,7 +17,7 @@ menu:
     <div class="card-body text-danger font-weight-bold">
         <a href="/galeria-2019" class="card-link d-block text-danger text-center">
             Fotos 2019<br/>
-            <span class="font-weight-normal small">Las primeras fotos ya están subidas.</span>
+            <span class="font-weight-normal small">Mas que 7000 fotos.</span>
         </a>
     </div>
     </div>
