@@ -39,7 +39,6 @@ menu:
             Tfno. Organización: +34 950 615 016<br />
             Email: <a href="mailto:info@lamojaquera.com">info@lamojaquera.com</a>
         </p>
-        <iframe style="width:100%; height:50vh" src="https://www.google.com/maps/d/embed?mid=1VxdKLEPRSKJ9bfk0cHYAPC0KgZjOabha" allowfullscreen></iframe>
     </div>
     <div class="col-sm-4">
         <div class="card mb-3">
