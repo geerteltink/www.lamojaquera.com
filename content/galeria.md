@@ -10,69 +10,105 @@ menu:
     weight: 50
 ---
 
-<div class="row">
-<div class="col-md-4">
+{{< youtube zgU9bReGD1o >}}
+
+<div class="card-deck mt-5">
 <div class="card text-white bg-primary mb-3" style="min-width: 10rem;">
-  {{< youtube zgU9bReGD1o >}}
-  <div class="card-body">
-    <h5 class="card-title">VIII Sierra Cabrera Xtreme: La Mojaquera 2019</h5>
+  {{< img src="/img/cartel-2019.jpg" alt="La Mojaquera 2019" class="card-img-top" resize="512x" >}}
+  <div class="card-body text-center">
+    <h1 class="card-title h5">VIII Sierra Cabrera Xtreme</h1>
+    <p class="card-text">La Mojaquera 2019</p>
+  </div>
+  <div class="card-footer">
+    <a href="{{< imgurl "/img/cartel-2019.jpg" >}}" target="_blank" class="card-link text-light">
+      Descargar cartel
+    </a>
   </div>
 </div>
-</div>
-<div class="col-md-4">
 <div class="card text-white bg-primary mb-3" style="min-width: 10rem;">
-  {{< youtube GeqLC-AS74g >}}
-  <div class="card-body">
-    <h5 class="card-title">VII Sierra Cabrera Xtreme: La Mojaquera 2018</h5>
+  {{< img src="/img/cartel-2018.jpg" alt="La Mojaquera 2018" class="card-img-top" resize="512x" >}}
+  <div class="card-body text-center">
+    <h1 class="card-title h5">VII Sierra Cabrera Xtreme</h1>
+    <p class="card-text">La Mojaquera 2018</p>
+  </div>
+  <div class="card-footer">
+    <a href="{{< imgurl "/img/cartel-2018.jpg" >}}" target="_blank" class="card-link text-light">
+      Descargar cartel
+    </a>
   </div>
 </div>
-</div>
-<div class="col-md-4">
 <div class="card text-white bg-primary mb-3" style="min-width: 10rem;">
-  {{< youtube gc9nhiwAuyo >}}
-  <div class="card-body">
-    <h5 class="card-title">VI Sierra Cabrera Xtreme: La Mojaquera 2017</h5>
+  {{< img src="/img/cartel-2017.jpg" alt="La Mojaquera 2017" class="card-img-top" resize="512x" >}}
+  <div class="card-body text-center">
+    <h1 class="card-title h5">VI Sierra Cabrera Xtreme</h1>
+    <p class="card-text">La Mojaquera 2017</p>
+  </div>
+  <div class="card-footer">
+    <a href="{{< imgurl "/img/cartel-2017.jpg" >}}" target="_blank" class="card-link text-light">
+      Descargar cartel
+    </a>
   </div>
 </div>
-</div>
-<div class="col-md-4">
+<div class="w-100 mt-4"></div>
 <div class="card text-white bg-primary mb-3" style="min-width: 10rem;">
-  {{< youtube -K4uxP83sNk >}}
-  <div class="card-body">
-    <h5 class="card-title">V Sierra Cabrera Xtreme: La Mojaquera 2016</h5>
+  {{< img src="/img/cartel-2016.jpg" alt="La Mojaquera 2016" class="card-img-top" resize="512x" >}}
+  <div class="card-body text-center">
+    <h1 class="card-title h5">V Sierra Cabrera Xtreme</h1>
+    <p class="card-text">La Mojaquera 2016</p>
+  </div>
+  <div class="card-footer">
+    <a href="{{< imgurl "/img/cartel-2016.jpg" >}}" target="_blank" class="card-link text-light">
+      Descargar cartel
+    </a>
   </div>
 </div>
-</div>
-<div class="col-md-4">
 <div class="card text-white bg-primary mb-3" style="min-width: 10rem;">
-  {{< youtube AO9xJTo_u2Q >}}
-  <div class="card-body">
-    <h5 class="card-title">IV Sierra Cabrera Xtreme: La Mojaquera 2015</h5>
+  {{< img src="/img/cartel-2015.jpg" alt="La Mojaquera 2015" class="card-img-top" resize="512x" >}}
+  <div class="card-body text-center">
+    <h1 class="card-title h5">IV Sierra Cabrera Xtreme</h1>
+    <p class="card-text">La Mojaquera 2015</p>
+  </div>
+  <div class="card-footer">
+    <a href="{{< imgurl "/img/cartel-2015.jpg" >}}" target="_blank" class="card-link text-light">
+      Descargar cartel
+    </a>
   </div>
 </div>
-</div>
-<div class="col-md-4">
 <div class="card text-white bg-primary mb-3" style="min-width: 10rem;">
-  {{< youtube A_nB5KN6GAc >}}
-  <div class="card-body">
-    <h5 class="card-title">III Sierra Cabrera Xtreme: La Mojaquera 2014</h5>
+  {{< img src="/img/cartel-2014.jpg" alt="La Mojaquera 2014" class="card-img-top" resize="512x" >}}
+  <div class="card-body text-center">
+    <h1 class="card-title h5">III Sierra Cabrera Xtreme</h1>
+    <p class="card-text">La Mojaquera 2014</p>
+  </div>
+  <div class="card-footer">
+    <a href="{{< imgurl "/img/cartel-2014.jpg" >}}" target="_blank" class="card-link text-light">
+      Descargar cartel
+    </a>
   </div>
 </div>
-</div>
-<div class="col-md-4">
+<div class="w-100 mt-4"></div>
 <div class="card text-white bg-primary mb-3" style="min-width: 10rem;">
-  {{< youtube zeZXtQTnrGI >}}
-  <div class="card-body">
-    <h5 class="card-title">II Sierra Cabrera Xtreme: La Mojaquera 2013</h5>
+  {{< img src="/img/cartel-2013.jpg" alt="La Mojaquera 2013" class="card-img-top" resize="512x" >}}
+  <div class="card-body text-center">
+    <h1 class="card-title h5">II Sierra Cabrera Xtreme</h1>
+    <p class="card-text">La Mojaquera 2013</p>
+  </div>
+  <div class="card-footer">
+    <a href="{{< imgurl "/img/cartel-2013.jpg" >}}" target="_blank" class="card-link text-light">
+      Descargar cartel
+    </a>
   </div>
 </div>
-</div>
-<div class="col-md-4">
 <div class="card text-white bg-primary mb-3" style="min-width: 10rem;">
-  {{< youtube BWklbhKM46o >}}
-  <div class="card-body">
-    <h5 class="card-title">I Sierra Cabrera Xtreme: La Mojaquera 2012</h5>
+  {{< img src="/img/cartel-2012.jpg" alt="La Mojaquera 2012" class="card-img-top" resize="512x" >}}
+  <div class="card-body text-center">
+    <h1 class="card-title h5">I Sierra Cabrera Xtreme</h1>
+    <p class="card-text">La Mojaquera 2012</p>
   </div>
-</div>
+  <div class="card-footer">
+    <a href="{{< imgurl "/img/cartel-2012.jpg" >}}" target="_blank" class="card-link text-light">
+      Descargar cartel
+    </a>
+  </div>
 </div>
 </div>
