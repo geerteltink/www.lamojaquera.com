@@ -1,6 +1,6 @@
 {{ $currentPage := . }}
 {{ $bannerText := .Params.bannertext }}
-<div class="bg-warning text-dark mb-5 p-3">
+<div class="bg-warning text-dark mb-5 p-1">
     <ul class="nav subnav flex-nowrap justify-content-center">
         {{ range .Site.Menus.main }}
         {{ if or (eq $currentPage.Name .Name) ($currentPage.HasMenuCurrent "main" .) }}
