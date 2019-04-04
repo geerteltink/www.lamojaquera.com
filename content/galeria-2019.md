@@ -7,7 +7,7 @@ bannertext: Galería 2019
 menu:
   main:
     parent: galeria
-    weight: 2019
+    weight: 1
 ---
 
 <h1 class="mb-5">Galería VIII Sierra Cabrera Xtreme: La Mojaquera 2019</h1>

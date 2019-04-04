@@ -15,7 +15,7 @@ menu:
 <div class="card-deck">
     <div class="card border-danger mb-3" style="min-width: 128px;">
     <div class="card-body text-danger font-weight-bold">
-        <a href="/galeria-2019" class="card-link d-block text-danger text-center">
+        <a href="/galeria-2019/" class="card-link d-block text-danger text-center">
             Fotos 2019<br/>
             <span class="font-weight-normal small">Mas que 7000 fotos.</span>
         </a>
@@ -31,17 +31,17 @@ menu:
     </div>
     <div class="card border-danger mb-3" style="min-width: 128px;">
     <div class="card-body text-danger font-weight-bold">
-        <a href="/informacion/equipacion" class="card-link d-block text-danger text-center">Informacion equipacion</a>
+        <a href="/informacion/equipacion/" class="card-link d-block text-danger text-center">Informacion equipacion</a>
     </div>
     </div>
 </div>
 </div>
-
 
 <main class="container d-flex">
     <div class="row mb-3">
     <div class="col-md-8">
-        <p class="mb-3">
+        {{< youtube zgU9bReGD1o >}}
+        <p class="my-3">
             La Sierra Cabrera Xtreme / La Mojaquera, es una Maratón MTB concebida y desarrollada para la diversión y 
             superación. La organización es personal (much@s me conocéis) y no perseguimos el lucro, todo lo recaudado 
             se invierte en la carrera, es decir en vosotr@s. La realizamos por pura afición a este deporte, diversión 

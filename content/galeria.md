@@ -10,15 +10,13 @@ menu:
     weight: 50
 ---
 
-{{< youtube zgU9bReGD1o >}}
-
-<div class="card-deck mt-5">
+<div class="card-deck">
 <div class="card text-white bg-primary mb-3" style="min-width: 10rem;">
   {{< img src="/img/cartel-2019.jpg" alt="La Mojaquera 2019" class="card-img-top" resize="512x" >}}
-  <div class="card-body text-center">
+  <a class="card-body text-center text-white" href="/galeria-2019/">
     <h1 class="card-title h5">VIII Sierra Cabrera Xtreme</h1>
     <p class="card-text">La Mojaquera 2019</p>
-  </div>
+  </a>
   <div class="card-footer">
     <a href="{{< imgurl "/img/cartel-2019.jpg" >}}" target="_blank" class="card-link text-light">
       Descargar cartel
@@ -27,10 +25,10 @@ menu:
 </div>
 <div class="card text-white bg-primary mb-3" style="min-width: 10rem;">
   {{< img src="/img/cartel-2018.jpg" alt="La Mojaquera 2018" class="card-img-top" resize="512x" >}}
-  <div class="card-body text-center">
+  <a class="card-body text-center text-white" href="/galeria-2018/">
     <h1 class="card-title h5">VII Sierra Cabrera Xtreme</h1>
     <p class="card-text">La Mojaquera 2018</p>
-  </div>
+  </a>
   <div class="card-footer">
     <a href="{{< imgurl "/img/cartel-2018.jpg" >}}" target="_blank" class="card-link text-light">
       Descargar cartel
