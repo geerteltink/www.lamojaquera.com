@@ -1,2 +1,4 @@
+/node_modules
 /public
-/resources
+/resources/_gen/assets/jpg
+/resources/_gen/images

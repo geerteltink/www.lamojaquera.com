@@ -1,0 +1,22 @@
+{
+  "name": "www.lamojaquera.com",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^9.5.0",
+    "postcss-cli": "^6.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xtreamwayz/www.lamojaquera.com.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xtreamwayz/www.lamojaquera.com/issues"
+  },
+  "homepage": "https://github.com/xtreamwayz/www.lamojaquera.com#readme"
+}
