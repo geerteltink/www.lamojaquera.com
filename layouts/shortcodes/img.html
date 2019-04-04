@@ -1,4 +1,38 @@
-{{- $img := resources.Get (.Get "src") -}}
-{{- $img := $img.Resize (.Get "resize") -}}
-{{- $img := $img | resources.Fingerprint "md5" -}}
-<img src="{{ $img.RelPermalink }}" alt="{{ .Get "alt" }}" class="{{ .Get "class" }}" />
+{{/* 
+    {{< img src="/img/cartel-2019.jpg" alt="La Mojaquera 2019" class="card-img-top" >}}
+
+    Only use images smaller than or equal to the src (original) image size, as Hugo will upscale small images
+    Set the sizes attribute to (min-width: 35em) 1200px, 100vw unless overridden in shortcode 
+*/}}
+{{- $src := resources.Get (.Get "src") -}}
+{{- .Scratch.Set "xs" ($src.Resize "256x") -}}
+{{- .Scratch.Set "sm" ($src.Resize "512x") -}}
+{{- .Scratch.Set "md" ($src.Resize "800x") -}}
+{{- .Scratch.Set "lg" ($src.Resize "1200x") -}}
+{{- .Scratch.Set "xl" ($src.Resize "1600x") -}}
+{{- $xs := .Scratch.Get "xs" | resources.Fingerprint "md5" -}}
+{{- $sm := .Scratch.Get "sm" | resources.Fingerprint "md5" -}}
+{{- $md := .Scratch.Get "md" | resources.Fingerprint "md5" -}}
+{{- $lg := .Scratch.Get "lg" | resources.Fingerprint "md5" -}}
+{{- $xl := .Scratch.Get "xl" | resources.Fingerprint "md5" -}}
+<img 
+  {{ with .Get "sizes" }}sizes='{{.}}'{{ else }}sizes="(min-width: 800px) 100vw, 50vw"{{ end }}
+  srcset="
+  {{- if ge $src.Width "256" -}}
+    {{- with $xs.RelPermalink -}}{{.}} 256w{{- end -}}
+  {{- end -}}
+  {{- if ge $src.Width "512" -}}
+    {{- with $sm.RelPermalink -}}{{.}} 512w{{- end -}}
+  {{- end -}}
+  {{- if ge $src.Width "800" -}}
+    {{- with $md.RelPermalink -}}, {{.}} 800w{{- end -}}
+  {{- end -}}
+  {{- if ge $src.Width "1200" -}}
+    {{- with $lg.RelPermalink -}}, {{.}} 1200w{{- end -}}
+  {{- end -}}
+  {{- if ge $src.Width "1600" -}}
+    {{- with $xl.RelPermalink -}}, {{.}} 1600w{{- end -}}
+  {{- end -}}"
+  {{ if .Get $md }}src="{{ $md.RelPermalink }}"{{ else }}src="{{ $src.RelPermalink }}"{{ end }}
+  {{ with .Get "alt" }}alt='{{.}}'{{ end }}
+  {{ with .Get "class" }}class='{{.}}'{{ end }}/>
