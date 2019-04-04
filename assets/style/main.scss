@@ -6,7 +6,8 @@
 }
 
 .app-hero {
-  min-height: 50vh;
+  height: 196px;
+  height: calc(100vw / 6.2 - 1px) !important;
   color: #fff;
   background: transparent no-repeat 50%;
   background-size: cover;

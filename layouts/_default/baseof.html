@@ -35,7 +35,9 @@
     {{ block "main" . }}{{ end }}
   {{ else }}
     {{ if .Params.bannerimage }}
-      {{ $bannerImage := resources.Get .Params.bannerimage | resources.Fingerprint "md5" }}
+      {{ $bannerImage := resources.Get .Params.bannerimage }}
+      {{ $bannerImage := $bannerImage.Fill "2560x423 Center" }}
+      {{ $bannerImage := $bannerImage | resources.Fingerprint "md5" }}
       <div class="app-hero flex-container" style="background-image: url({{ $bannerImage.RelPermalink }})">
         <div class="app-hero-content text-center container"></div>
       </div>
