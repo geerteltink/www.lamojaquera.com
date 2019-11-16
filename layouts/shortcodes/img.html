@@ -22,7 +22,7 @@
     {{- with $xs.RelPermalink -}}{{.}} 256w{{- end -}}
   {{- end -}}
   {{- if ge $src.Width "512" -}}
-    {{- with $sm.RelPermalink -}}{{.}} 512w{{- end -}}
+    {{- with $sm.RelPermalink -}}, {{.}} 512w{{- end -}}
   {{- end -}}
   {{- if ge $src.Width "800" -}}
     {{- with $md.RelPermalink -}}, {{.}} 800w{{- end -}}
