@@ -11,6 +11,15 @@ menu:
 
 <img src="{{< imgurl "/img/banner-2019.jpg" >}}" class="w-100 img-fluid mb-3" alt="La Mojaquera 2019">
 
+<div class="container my-3">
+    <h1>La proxima Mojaquera 2021</h1>
+    <p class="lead">
+        Por razones técnicas y logísticas nos vemos obligados a aplazar La IX Mojaquera para el ano 2021. Debemos rehacer el recorrido.
+        Queremos que este continúe siendo un recorrido exigente y a la vez divertido, sin cruces, sin tramos cortados, donde el corredor disfrute al 100%.
+        <strong>#EstoesMTB #EsPlano #NoHayDolor</strong>
+    </p>
+</div>
+
 <div class="container">
 <div class="card-deck">
     <div class="card border-danger mb-3" style="min-width: 128px;">
