@@ -17,6 +17,11 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 #canonifyurls = true
 #copyright = "Copyright &copy; 2017 - Author Name"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [imaging]
 # Default resample filter used for resizing. Default is Box,
 # a simple and fast averaging filter appropriate for downscaling.
