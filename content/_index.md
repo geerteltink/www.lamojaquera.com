@@ -9,7 +9,7 @@ menu:
     weight: 10
 ---
 
-<img src="{{< imgurl "/img/banner-2019.jpg" >}}" class="w-100 img-fluid mb-3" alt="La Mojaquera 2019">
+<img src="{{< imgurl "/img/banner-2021-announcement.jpg" >}}" class="w-100 img-fluid mb-3" alt="La Mojaquera 2021">
 
 <div class="container my-3">
     <h1>La proxima Mojaquera 2021</h1>
@@ -40,7 +40,7 @@ menu:
     </div>
     <div class="card border-danger mb-3" style="min-width: 128px;">
     <div class="card-body text-danger font-weight-bold">
-        <a href="/informacion/equipacion/" class="card-link d-block text-danger text-center">Informacion equipacion</a>
+        <a href="/informacion/equipacion/" class="card-link d-block text-danger text-center">Información equipación</a>
     </div>
     </div>
 </div>
